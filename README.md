@@ -1,1 +1,1 @@
-# Thyroid Cancer Comorbidity identification in the UK Biobank dataset.
+# Thyroid cancer comorbidity identification in the UK Biobank dataset.

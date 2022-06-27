@@ -1,7 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="">
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Created repo.">
+      <change afterPath="$PROJECT_DIR$/phase1_functions/ARM_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phase1_functions/__init__.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/phase1_functions/clustering_functions.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -16,7 +21,9 @@
     <option name="stateVersion" value="1" />
   </component>
   <component name="ProjectId" id="2BAMQ2rbqI1dkud0jcGBdAWvySY" />
-  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true">
+    <ConfirmationsSetting value="2" id="Add" />
+  </component>
   <component name="ProjectViewState">
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
@@ -36,7 +43,18 @@
       <option name="presentableId" value="Default" />
       <updated>1656344416225</updated>
     </task>
+    <task id="LOCAL-00001" summary="Created repo.">
+      <created>1656344597585</created>
+      <option name="number" value="00001" />
+      <option name="presentableId" value="LOCAL-00001" />
+      <option name="project" value="LOCAL" />
+      <updated>1656344597585</updated>
+    </task>
+    <option name="localTasksCounter" value="2" />
     <servers />
+  </component>
+  <component name="UnknownFeatures">
+    <option featureType="com.intellij.fileTypeFactory" implementationName="requirements.txt" />
   </component>
   <component name="Vcs.Log.Tabs.Properties">
     <option name="TAB_STATES">
@@ -48,5 +66,9 @@
         </entry>
       </map>
     </option>
+  </component>
+  <component name="VcsManagerConfiguration">
+    <MESSAGE value="Created repo." />
+    <option name="LAST_COMMIT_MESSAGE" value="Created repo." />
   </component>
 </project>
