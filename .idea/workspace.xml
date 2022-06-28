@@ -1,10 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Added data exploration folder.">
-      <change afterPath="$PROJECT_DIR$/data_exploration/dummy_data.ipynb" afterDir="false" />
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Added dummy data notebook.">
+      <change afterPath="$PROJECT_DIR$/data_exploration/disease_dummy_data.tsv" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_exploration/prevalence_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_exploration/prevalence_functions.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_exploration/dummy_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_exploration/dummy_data.ipynb" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -25,13 +25,14 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -41,7 +42,7 @@
       <option name="presentableId" value="Default" />
       <updated>1656344416225</updated>
       <workItem from="1656434513714" duration="42000" />
-      <workItem from="1656434567171" duration="692000" />
+      <workItem from="1656434567171" duration="3530000" />
     </task>
     <task id="LOCAL-00001" summary="Created repo.">
       <created>1656344597585</created>
@@ -64,7 +65,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656433773913</updated>
     </task>
-    <option name="localTasksCounter" value="4" />
+    <task id="LOCAL-00004" summary="Added dummy data notebook.">
+      <created>1656435274024</created>
+      <option name="number" value="00004" />
+      <option name="presentableId" value="LOCAL-00004" />
+      <option name="project" value="LOCAL" />
+      <updated>1656435274024</updated>
+    </task>
+    <option name="localTasksCounter" value="5" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -85,9 +93,11 @@
     </option>
   </component>
   <component name="VcsManagerConfiguration">
+    <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
     <MESSAGE value="Created repo." />
     <MESSAGE value="Added functions files." />
     <MESSAGE value="Added data exploration folder." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added data exploration folder." />
+    <MESSAGE value="Added dummy data notebook." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added dummy data notebook." />
   </component>
 </project>
