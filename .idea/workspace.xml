@@ -1,13 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Created repo.">
-      <change afterPath="$PROJECT_DIR$/phase1_functions/ARM_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phase1_functions/__init__.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/phase1_functions/clustering_functions.py" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/requirements.txt" afterDir="false" />
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Added functions files.">
+      <change afterPath="$PROJECT_DIR$/data_exploration/prevalence_functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phase1_functions/ARM_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/phase1_functions/ARM_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -50,7 +47,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656344597585</updated>
     </task>
-    <option name="localTasksCounter" value="2" />
+    <task id="LOCAL-00002" summary="Added functions files.">
+      <created>1656345064441</created>
+      <option name="number" value="00002" />
+      <option name="presentableId" value="LOCAL-00002" />
+      <option name="project" value="LOCAL" />
+      <updated>1656345064441</updated>
+    </task>
+    <option name="localTasksCounter" value="3" />
     <servers />
   </component>
   <component name="UnknownFeatures">
@@ -69,6 +73,7 @@
   </component>
   <component name="VcsManagerConfiguration">
     <MESSAGE value="Created repo." />
-    <option name="LAST_COMMIT_MESSAGE" value="Created repo." />
+    <MESSAGE value="Added functions files." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added functions files." />
   </component>
 </project>

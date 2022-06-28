@@ -14,7 +14,7 @@ def split_df(dataframe, col_of_interest, split_num):
     # Split the dataframe (creates an array)
     split_array = np.array_split(data_noThyCa, split_num, axis=1)
 
-    # Empty list
+    # Empty list 
     split_dataframes = []
 
     # Turn each item in array to df
