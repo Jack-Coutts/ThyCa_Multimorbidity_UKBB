@@ -1,11 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Testing exploratory functions complete.">
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Fixed issues found in testing.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_exploration/data_exploration.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_exploration/data_exploration.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_exploration/dummy_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_exploration/dummy_data.ipynb" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/data_exploration/explore_data_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_exploration/explore_data_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -48,7 +46,7 @@
       <workItem from="1656496597315" duration="2736000" />
       <workItem from="1656499463633" duration="18657000" />
       <workItem from="1656532738244" duration="206000" />
-      <workItem from="1656534601995" duration="4336000" />
+      <workItem from="1656534601995" duration="4966000" />
     </task>
     <task id="LOCAL-00001" summary="Created repo.">
       <created>1656344597585</created>
@@ -211,7 +209,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656539606025</updated>
     </task>
-    <option name="localTasksCounter" value="24" />
+    <task id="LOCAL-00024" summary="Fixed issues found in testing.">
+      <created>1656540408972</created>
+      <option name="number" value="00024" />
+      <option name="presentableId" value="LOCAL-00024" />
+      <option name="project" value="LOCAL" />
+      <updated>1656540408972</updated>
+    </task>
+    <option name="localTasksCounter" value="25" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -252,6 +257,7 @@
     <MESSAGE value="Fixed phecode translation. Still need to add to functions file." />
     <MESSAGE value="Testing exploratory functions." />
     <MESSAGE value="Testing exploratory functions complete." />
-    <option name="LAST_COMMIT_MESSAGE" value="Testing exploratory functions complete." />
+    <MESSAGE value="Fixed issues found in testing." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed issues found in testing." />
   </component>
 </project>
