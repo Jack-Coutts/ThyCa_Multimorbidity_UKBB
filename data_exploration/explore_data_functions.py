@@ -44,6 +44,7 @@ def all_col_frequency(tsv_file, target_value, index_col=False):  # Return tsv wi
 def phecode_col_conversion(data, dictionary_df, replace_col, key_col, new_col, index_col=False):
 
     dataframe = data # re-assign dataframe
+    dataframe = dataframe.drop(0, axis=0)  # Drop userId
     r = list(dataframe[replace_col])  # Create a list of phecodes in existing df
     new = []  # New column entries (disease names)
 
@@ -64,6 +65,7 @@ def phecode_col_conversion(data, dictionary_df, replace_col, key_col, new_col, i
 def phecode_header_conversion(data, dictionary_df, key_col, new_col, index_col=False):
 
     dataframe = data # re-assign dataframe
+    dataframe = dataframe.drop(0, axis=1)  # Drop userId
     r = list(dataframe.columns)  # Create a list of phecodes in existing df
     new = []  # New column entries (disease names)
 
