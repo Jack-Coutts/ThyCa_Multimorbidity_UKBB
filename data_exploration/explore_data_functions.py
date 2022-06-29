@@ -1,11 +1,19 @@
 import pandas as pd
 
 
+# Write dataframe to tsv
 def df_to_tsv(dataframe, filename):  # Write tsv from dataframe
 
     dataframe.to_csv(filename, sep='\t', index=False)
 
     return f'{filename} created.'  # Output text if tsv created.
+
+
+# Read in dataframe as tsv
+def tsv_to_df(tsv):
+
+    data = pd.read_csv(tsv, sep='\t', header=0, index_col=0)  # Read in tsv
+    return data
 
 
 def find_col_frequency(tsv_file, colname, target_value):  # Frequency of column value
@@ -40,4 +48,21 @@ def phecode_conversion(in_tsv, dictionary_tsv):  # Convert phecode to disease na
     data.columns = new_colnames  # Replace column names in data
 
     return data  # Return dataframe with new column names
+
+
+# Select subset of dataframe based on column values
+def subset_df(dataframe, col_of_interest, col_value):
+
+    df = dataframe.loc[dataframe[col_of_interest] == col_value]  # Select rows based on column value
+    return df  # Return dataframe subset
+
+
+# Write information to output file
+def write_out(message_list, filename):
+
+    with open(filename, 'w') as file:
+
+        file.writelines(message_list)
+
+    return f'{filename} created.'
 
