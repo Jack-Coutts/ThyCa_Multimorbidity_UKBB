@@ -2,7 +2,9 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Added line break to readme.">
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_exploration/dummy_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_exploration/dummy_data.ipynb" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_exploration/explore_data_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_exploration/explore_data_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -41,7 +43,8 @@
       <updated>1656344416225</updated>
       <workItem from="1656434513714" duration="42000" />
       <workItem from="1656434567171" duration="4733000" />
-      <workItem from="1656496597315" duration="2720000" />
+      <workItem from="1656496597315" duration="2736000" />
+      <workItem from="1656499463633" duration="2168000" />
     </task>
     <task id="LOCAL-00001" summary="Created repo.">
       <created>1656344597585</created>
@@ -134,7 +137,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656499275718</updated>
     </task>
-    <option name="localTasksCounter" value="14" />
+    <task id="LOCAL-00014" summary="Added line break to readme.">
+      <created>1656499330989</created>
+      <option name="number" value="00014" />
+      <option name="presentableId" value="LOCAL-00014" />
+      <option name="project" value="LOCAL" />
+      <updated>1656499330989</updated>
+    </task>
+    <option name="localTasksCounter" value="15" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
