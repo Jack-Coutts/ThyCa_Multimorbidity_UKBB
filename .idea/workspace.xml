@@ -1,9 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Phecode conversion function.">
-      <change afterPath="$PROJECT_DIR$/data_exploration/data_exploration.py" afterDir="false" />
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Subset function &amp; some other simple ones.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_exploration/data_exploration.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_exploration/data_exploration.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/data_exploration/dummy_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_exploration/dummy_data.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_exploration/explore_data_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_exploration/explore_data_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -25,14 +26,15 @@
     <option name="hideEmptyMiddlePackages" value="true" />
     <option name="showLibraryContents" value="true" />
   </component>
-  <component name="PropertiesComponent">{
-  &quot;keyToString&quot;: {
-    &quot;ASKED_ADD_EXTERNAL_FILES&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.OpenProjectViewOnStart&quot;: &quot;true&quot;,
-    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
-    &quot;WebServerToolWindowFactoryState&quot;: &quot;false&quot;
+  <component name="PropertiesComponent"><![CDATA[{
+  "keyToString": {
+    "ASKED_ADD_EXTERNAL_FILES": "true",
+    "RunOnceActivity.OpenProjectViewOnStart": "true",
+    "RunOnceActivity.ShowReadmeOnStart": "true",
+    "WebServerToolWindowFactoryState": "false",
+    "settings.editor.selected.configurable": "preferences.lookFeel"
   }
-}</component>
+}]]></component>
   <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
@@ -44,7 +46,7 @@
       <workItem from="1656434513714" duration="42000" />
       <workItem from="1656434567171" duration="4733000" />
       <workItem from="1656496597315" duration="2736000" />
-      <workItem from="1656499463633" duration="5662000" />
+      <workItem from="1656499463633" duration="8023000" />
     </task>
     <task id="LOCAL-00001" summary="Created repo.">
       <created>1656344597585</created>
@@ -158,7 +160,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656504414534</updated>
     </task>
-    <option name="localTasksCounter" value="17" />
+    <task id="LOCAL-00017" summary="Subset function &amp; some other simple ones.">
+      <created>1656506817912</created>
+      <option name="number" value="00017" />
+      <option name="presentableId" value="LOCAL-00017" />
+      <option name="project" value="LOCAL" />
+      <updated>1656506817912</updated>
+    </task>
+    <option name="localTasksCounter" value="18" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -193,6 +202,7 @@
     <MESSAGE value="Added line break to readme." />
     <MESSAGE value="All col frequency function." />
     <MESSAGE value="Phecode conversion function." />
-    <option name="LAST_COMMIT_MESSAGE" value="Phecode conversion function." />
+    <MESSAGE value="Subset function &amp; some other simple ones." />
+    <option name="LAST_COMMIT_MESSAGE" value="Subset function &amp; some other simple ones." />
   </component>
 </project>

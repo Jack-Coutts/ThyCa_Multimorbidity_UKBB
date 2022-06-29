@@ -39,7 +39,7 @@ def all_col_frequency(tsv_file, target_value):  # Return tsv with frequency of a
     return out_df
 
 
-def phecode_conversion(in_tsv, dictionary_tsv):  # Convert phecode to disease name or medication name
+def phecode_conversion_tsv(in_tsv, dictionary_tsv):  # Convert phecode to disease name or medication name
 
     data = pd.read_csv(in_tsv, sep='\t', header=0, index_col=0)  # Read in data tsv
     dict = pd.read_csv(dictionary_tsv, sep='\t', header=0, index_col=0)  # Read in phecode dictionary tsv
@@ -50,10 +50,28 @@ def phecode_conversion(in_tsv, dictionary_tsv):  # Convert phecode to disease na
     return data  # Return dataframe with new column names
 
 
+def phecode_conversion_df(data, dictionary_tsv):  # Convert phecode to disease name or medication name
+
+    df = data
+    dict = pd.read_csv(dictionary_tsv, sep='\t', header=0, index_col=0)  # Read in phecode dictionary tsv
+
+    new_colnames = [dict.loc[i][0] for i in list(df.columns)]  # list of new column names selecting from dictionary
+    df.columns = new_colnames  # Replace column names in data
+
+    return df  # Return dataframe with new column names
+
+
 # Select subset of dataframe based on column values
 def subset_df(dataframe, col_of_interest, col_value):
 
     df = dataframe.loc[dataframe[col_of_interest] == col_value]  # Select rows based on column value
+    return df  # Return dataframe subset
+
+
+# Select subset of dataframe based on list
+def subset_df_list(dataframe, col_of_interest, col_value_list):
+
+    df = dataframe.loc[dataframe[col_of_interest] in col_value_list]  # Select rows based on column value
     return df  # Return dataframe subset
 
 
