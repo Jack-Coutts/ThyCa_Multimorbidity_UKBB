@@ -50,6 +50,17 @@ def phecode_conversion_tsv(in_tsv, dictionary_tsv):  # Convert phecode to diseas
     return data  # Return dataframe with new column names
 
 
+def phecode_row_conversion_tsv(in_tsv, dictionary_tsv):  # Convert phecode to disease name or medication name
+
+    data = pd.read_csv(in_tsv, sep='\t', header=0, index_col=0)  # Read in data tsv
+    dict = pd.read_csv(dictionary_tsv, sep='\t', header=0, index_col=0)  # Read in phecode dictionary tsv
+
+    new_rownames = [dict.loc[i][0] for i in list(data.index)]  # list of new column names selecting from dictionary
+    data.index = new_rownames  # Replace column names in data
+
+    return data  # Return dataframe with new column names
+
+
 def phecode_conversion_df(data, dictionary_tsv):  # Convert phecode to disease name or medication name
 
     df = data
@@ -57,6 +68,17 @@ def phecode_conversion_df(data, dictionary_tsv):  # Convert phecode to disease n
 
     new_colnames = [dict.loc[i][0] for i in list(df.columns)]  # list of new column names selecting from dictionary
     df.columns = new_colnames  # Replace column names in data
+
+    return df  # Return dataframe with new column names
+
+
+def phecode_row_conversion_df(data, dictionary_tsv):  # Convert phecode to disease name or medication name
+
+    df = data
+    dict = pd.read_csv(dictionary_tsv, sep='\t', header=0, index_col=0)  # Read in phecode dictionary tsv
+
+    new_colnames = [dict.loc[i][0] for i in list(df.index)]  # list of new column names selecting from dictionary
+    df.index = new_colnames  # Replace column names in data
 
     return df  # Return dataframe with new column names
 
