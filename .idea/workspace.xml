@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Fixed phecode translation. Still need to add to functions file.">
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Testing exploratory functions.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_exploration/dummy_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_exploration/dummy_data.ipynb" afterDir="false" />
     </list>
@@ -46,7 +46,7 @@
       <workItem from="1656496597315" duration="2736000" />
       <workItem from="1656499463633" duration="18657000" />
       <workItem from="1656532738244" duration="206000" />
-      <workItem from="1656534601995" duration="1019000" />
+      <workItem from="1656534601995" duration="3548000" />
     </task>
     <task id="LOCAL-00001" summary="Created repo.">
       <created>1656344597585</created>
@@ -195,7 +195,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656519339565</updated>
     </task>
-    <option name="localTasksCounter" value="22" />
+    <task id="LOCAL-00022" summary="Testing exploratory functions.">
+      <created>1656535682478</created>
+      <option name="number" value="00022" />
+      <option name="presentableId" value="LOCAL-00022" />
+      <option name="project" value="LOCAL" />
+      <updated>1656535682478</updated>
+    </task>
+    <option name="localTasksCounter" value="23" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -234,6 +241,7 @@
     <MESSAGE value="Written data exploration analysis file." />
     <MESSAGE value="Fixed errors." />
     <MESSAGE value="Fixed phecode translation. Still need to add to functions file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed phecode translation. Still need to add to functions file." />
+    <MESSAGE value="Testing exploratory functions." />
+    <option name="LAST_COMMIT_MESSAGE" value="Testing exploratory functions." />
   </component>
 </project>
