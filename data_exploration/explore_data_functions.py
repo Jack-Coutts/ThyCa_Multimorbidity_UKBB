@@ -1,6 +1,13 @@
 import pandas as pd
 
 
+def df_to_tsv(dataframe, filename):  # Write tsv from dataframe
+
+    dataframe.to_csv(filename, sep='\t', index=False)
+
+    return f'{filename} created.'  # Output text if tsv created.
+
+
 def find_col_frequency(tsv_file, colname, target_value):  # Frequency of column value
 
     data = pd.read_csv(tsv_file, sep='\t', header=0, index_col=0)  # Read in tsv
@@ -12,9 +19,15 @@ def find_col_frequency(tsv_file, colname, target_value):  # Frequency of column 
     return count, frequency  # Return value count and frequency
 
 
-def all_col_frequency(tsv_file):
+def all_col_frequency(tsv_file, target_value):  # Return tsv with frequency of all columns
 
-    pass
+    data = pd.read_csv(tsv_file, sep='\t', header=0, index_col=0)  # Read in tsv
+
+    out_df_rows = [i.count(target_value) for i in [list(data[i]) for i in data.columns]]
+
+    out_df = pd.DataFrame(out_df_rows, columns=data.columns)
+
+    return out_df
 
 
 

@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Additional functions.">
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Column value frequency function.">
+      <change afterPath="$PROJECT_DIR$/data_exploration/ukbb_and_phec_clean.txt" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_exploration/dummy_data.ipynb" beforeDir="false" afterPath="$PROJECT_DIR$/data_exploration/dummy_data.ipynb" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_exploration/explore_data_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_exploration/explore_data_functions.py" afterDir="false" />
     </list>
@@ -43,7 +45,7 @@
       <updated>1656344416225</updated>
       <workItem from="1656434513714" duration="42000" />
       <workItem from="1656434567171" duration="4733000" />
-      <workItem from="1656496597315" duration="768000" />
+      <workItem from="1656496597315" duration="2333000" />
     </task>
     <task id="LOCAL-00001" summary="Created repo.">
       <created>1656344597585</created>
@@ -101,7 +103,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656456639958</updated>
     </task>
-    <option name="localTasksCounter" value="9" />
+    <task id="LOCAL-00009" summary="Column value frequency function.">
+      <created>1656497385547</created>
+      <option name="number" value="00009" />
+      <option name="presentableId" value="LOCAL-00009" />
+      <option name="project" value="LOCAL" />
+      <updated>1656497385547</updated>
+    </task>
+    <option name="localTasksCounter" value="10" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -131,6 +140,7 @@
     <MESSAGE value="Editing prevalence functions." />
     <MESSAGE value="Change filename, add exploratory functions." />
     <MESSAGE value="Additional functions." />
-    <option name="LAST_COMMIT_MESSAGE" value="Additional functions." />
+    <MESSAGE value="Column value frequency function." />
+    <option name="LAST_COMMIT_MESSAGE" value="Column value frequency function." />
   </component>
 </project>
