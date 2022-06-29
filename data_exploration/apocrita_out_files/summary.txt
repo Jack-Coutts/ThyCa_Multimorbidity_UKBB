@@ -1,0 +1,6 @@
+
+There is disease data for 394884.0 participants 
+
+ThyCa occurs at a frequency of 0.0017372190314117564 meaning there are 686 with the disease 
+
+There is medication data for 294698 individuals
