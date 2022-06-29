@@ -10,7 +10,7 @@ Checklist:
 6. Store important results
 7. Visualise results 
 8. Record methodology
-\
+  
 9. Determine classification methodology
 10. Feature engineering/selection from phenotype data
 11. Predictive model selection
