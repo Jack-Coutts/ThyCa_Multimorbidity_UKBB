@@ -31,7 +31,13 @@ def all_col_frequency(tsv_file, target_value):  # Return tsv with frequency of a
     return out_df
 
 
-def phecode_conversion():  # Convert phecode to disease name or medication name
+def phecode_conversion(in_tsv, dictionary_tsv):  # Convert phecode to disease name or medication name
 
-    pass
+    data = pd.read_csv(in_tsv, sep='\t', header=0, index_col=0)  # Read in data tsv
+    dict = pd.read_csv(dictionary_tsv, sep='\t', header=0, index_col=0)  # Read in phecode dictionary tsv
+
+    new_colnames = [dict.loc[i][0] for i in list(data.columns)]  # list of new column names selecting from dictionary
+    data.columns = new_colnames  # Replace column names in data
+
+    return data  # Return dataframe with new column names
 
