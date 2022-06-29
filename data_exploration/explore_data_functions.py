@@ -34,7 +34,8 @@ def all_col_frequency(tsv_file, target_value, index_col=False):  # Return tsv wi
     # List of column frequencies
     out_df_rows = [[i.count(target_value)/row_count] for i in [list(data[i]) for i in data.columns]]
     # Dataframe with column name as index and freq as column
-    out_df = pd.DataFrame(out_df_rows, columns=['Frequency'], index=data.columns)
+    out_df = pd.DataFrame(out_df_rows, columns=['Frequency'])
+    out_df.insert(0, 'diseases', list(data.columns))
 
     return out_df
 
@@ -44,7 +45,7 @@ def phecode_conversion_tsv(in_tsv, dictionary_tsv, index_col=False):  # Convert 
     data = pd.read_csv(in_tsv, sep='\t', header=0, index_col=index_col)  # Read in data tsv
     dict = pd.read_csv(dictionary_tsv, sep='\t', header=0, index_col=index_col)  # Read in phecode dictionary tsv
 
-    new_colnames = [dict.loc[i][0] for i in list(data.columns)]  # list of new column names selecting from dictionary
+    new_colnames = [dict.loc[i][1] for i in list(data.columns)]  # list of new column names selecting from dictionary
     data.columns = new_colnames  # Replace column names in data
 
     return data  # Return dataframe with new column names
@@ -55,7 +56,7 @@ def phecode_row_conversion_tsv(in_tsv, dictionary_tsv, index_col=False):  # Conv
     data = pd.read_csv(in_tsv, sep='\t', header=0, index_col=index_col)  # Read in data tsv
     dict = pd.read_csv(dictionary_tsv, sep='\t', header=0, index_col=index_col)  # Read in phecode dictionary tsv
 
-    new_rownames = [dict.loc[i][0] for i in list(data['userId'])]  # list of new column names selecting from dictionary
+    new_rownames = [dict.loc[i][1] for i in list(data['diseases'])]  # list of new column names selecting from dictionary
     data.index = new_rownames  # Replace column names in data
 
     return data  # Return dataframe with new column names
@@ -66,7 +67,7 @@ def phecode_conversion_df(data, dictionary_tsv, index_col=False):  # Convert phe
     df = data
     dict = pd.read_csv(dictionary_tsv, sep='\t', header=0, index_col=index_col)  # Read in phecode dictionary tsv
 
-    new_colnames = [dict.loc[i][0] for i in list(df.columns)]  # list of new column names selecting from dictionary
+    new_colnames = [dict.loc[i][1] for i in list(df.columns)]  # list of new column names selecting from dictionary
     df.columns = new_colnames  # Replace column names in data
 
     return df  # Return dataframe with new column names
@@ -77,8 +78,8 @@ def phecode_row_conversion_df(data, dictionary_tsv, index_col=False):  # Convert
     df = data
     dict = pd.read_csv(dictionary_tsv, sep='\t', header=0, index_col=index_col)  # Read in phecode dictionary tsv
 
-    new_colnames = [dict.loc[i][0] for i in list(df['userId'])]  # list of new column names selecting from dictionary
-    df.index = new_colnames  # Replace column names in data
+    new_rownames = [dict.loc[i][1] for i in list(df['diseases'])]  # list of new column names selecting from dictionary
+    df.index = new_rownames  # Replace column names in data
 
     return df  # Return dataframe with new column names
 
