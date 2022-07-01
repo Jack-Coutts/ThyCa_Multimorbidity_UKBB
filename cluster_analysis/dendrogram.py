@@ -1,5 +1,5 @@
 
-from phase1_functions.cluster_dendrogram_functions import *
+from cluster_analysis.cluster_dendrogram_functions import *
 
 # Read in data and transpose
 data = tsv_to_df('/data/home/bt211037/dissertation/input/raw_data/phecodes_clean_2021.txt', 0, True)  # Index = userId
