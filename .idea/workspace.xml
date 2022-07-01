@@ -1,9 +1,11 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Added dendrogram.py.">
-      <change afterPath="$PROJECT_DIR$/phase1_functions/AH_clustering_functions.py" afterDir="false" />
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="clustering directory added.">
+      <change afterPath="$PROJECT_DIR$/cluster_analysis/apocrita_out_files/complete_lnk_dendro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cluster_analysis/apocrita_out_files/single_lnk_dendro.png" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cluster_analysis/dendrogram.py" beforeDir="false" afterPath="$PROJECT_DIR$/cluster_analysis/dendrogram.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -33,6 +35,12 @@
     &quot;settings.editor.selected.configurable&quot;: &quot;preferences.lookFeel&quot;
   }
 }</component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$/cluster_analysis/apocrita_out_files" />
+      <recent name="$PROJECT_DIR$/cluster_analysis" />
+    </key>
+  </component>
   <component name="RunManager">
     <configuration default="true" type="PythonConfigurationType" factoryName="Python">
       <module name="ThyCa_Multimorbidity_UKBB" />
@@ -71,7 +79,7 @@
       <workItem from="1656499463633" duration="18657000" />
       <workItem from="1656532738244" duration="206000" />
       <workItem from="1656534601995" duration="6826000" />
-      <workItem from="1656581437877" duration="3912000" />
+      <workItem from="1656581437877" duration="6241000" />
     </task>
     <task id="LOCAL-00001" summary="Created repo.">
       <created>1656344597585</created>
@@ -276,7 +284,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656675563206</updated>
     </task>
-    <option name="localTasksCounter" value="30" />
+    <task id="LOCAL-00030" summary="clustering directory added.">
+      <created>1656676101608</created>
+      <option name="number" value="00030" />
+      <option name="presentableId" value="LOCAL-00030" />
+      <option name="project" value="LOCAL" />
+      <updated>1656676101608</updated>
+    </task>
+    <option name="localTasksCounter" value="31" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -298,7 +313,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Created repo." />
     <MESSAGE value="Added functions files." />
     <MESSAGE value="Added data exploration folder." />
     <MESSAGE value="Added dummy data notebook." />
@@ -323,6 +337,7 @@
     <MESSAGE value="Apocrita data exploration output files added." />
     <MESSAGE value="Cluster dendrogram functions." />
     <MESSAGE value="Added dendrogram.py." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added dendrogram.py." />
+    <MESSAGE value="clustering directory added." />
+    <option name="LAST_COMMIT_MESSAGE" value="clustering directory added." />
   </component>
 </project>
