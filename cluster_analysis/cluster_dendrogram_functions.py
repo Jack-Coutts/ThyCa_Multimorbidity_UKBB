@@ -15,12 +15,12 @@ def tsv_to_df(tsv, index_col=False, transpose=False):
 # Create a dendrogram png file
 def plot_dendro(title, data, meth, metric, filename):
     # Plot figure
-    plt.figure(figsize=(16, 8))
+    plt.figure(figsize=(8, 6))
     dend = shc.dendrogram(shc.linkage(data, method=meth, metric=metric))
     plt.title(title)
     plt.xlabel('Diseases')
     plt.ylabel(metric + ' distance')
 
     # Save figure
-    plt.savefig(filename, dpi=600)
+    plt.savefig(filename, dpi=300)
 
