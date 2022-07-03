@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Edited README.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cluster_analysis/cluster_dendrogram_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/cluster_analysis/cluster_dendrogram_functions.py" afterDir="false" />
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Changed dendrogram size.">
+      <change afterPath="$PROJECT_DIR$/cluster_analysis/complete_lnk_dendro.png" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/cluster_analysis/single_lnk_dendro.png" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -79,7 +79,7 @@
       <workItem from="1656534601995" duration="6826000" />
       <workItem from="1656581437877" duration="7632000" />
       <workItem from="1656848495340" duration="1912000" />
-      <workItem from="1656872337780" duration="12000" />
+      <workItem from="1656872337780" duration="663000" />
     </task>
     <task id="LOCAL-00001" summary="Created repo.">
       <created>1656344597585</created>
@@ -319,7 +319,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656872192880</updated>
     </task>
-    <option name="localTasksCounter" value="35" />
+    <task id="LOCAL-00035" summary="Changed dendrogram size.">
+      <created>1656872363686</created>
+      <option name="number" value="00035" />
+      <option name="presentableId" value="LOCAL-00035" />
+      <option name="project" value="LOCAL" />
+      <updated>1656872363686</updated>
+    </task>
+    <option name="localTasksCounter" value="36" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -341,7 +348,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Created Jupyter notebook for creating dummy data." />
     <MESSAGE value="Editing prevalence functions." />
     <MESSAGE value="Change filename, add exploratory functions." />
     <MESSAGE value="Additional functions." />
@@ -366,6 +372,7 @@
     <MESSAGE value="Added dendrogram output files from apocrita." />
     <MESSAGE value="Change figure size." />
     <MESSAGE value="Edited README." />
-    <option name="LAST_COMMIT_MESSAGE" value="Edited README." />
+    <MESSAGE value="Changed dendrogram size." />
+    <option name="LAST_COMMIT_MESSAGE" value="Changed dendrogram size." />
   </component>
 </project>
