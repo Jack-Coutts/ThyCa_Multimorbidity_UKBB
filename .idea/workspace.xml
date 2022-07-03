@@ -1,9 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Change figure size.">
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Edited README.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/cluster_analysis/cluster_dendrogram_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/cluster_analysis/cluster_dendrogram_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +78,8 @@
       <workItem from="1656532738244" duration="206000" />
       <workItem from="1656534601995" duration="6826000" />
       <workItem from="1656581437877" duration="7632000" />
-      <workItem from="1656848495340" duration="1833000" />
+      <workItem from="1656848495340" duration="1912000" />
+      <workItem from="1656872337780" duration="12000" />
     </task>
     <task id="LOCAL-00001" summary="Created repo.">
       <created>1656344597585</created>
@@ -311,7 +312,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656680465747</updated>
     </task>
-    <option name="localTasksCounter" value="34" />
+    <task id="LOCAL-00034" summary="Edited README.">
+      <created>1656872192880</created>
+      <option name="number" value="00034" />
+      <option name="presentableId" value="LOCAL-00034" />
+      <option name="project" value="LOCAL" />
+      <updated>1656872192880</updated>
+    </task>
+    <option name="localTasksCounter" value="35" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -333,7 +341,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Added dummy data notebook." />
     <MESSAGE value="Created Jupyter notebook for creating dummy data." />
     <MESSAGE value="Editing prevalence functions." />
     <MESSAGE value="Change filename, add exploratory functions." />
@@ -358,6 +365,7 @@
     <MESSAGE value="clustering directory added." />
     <MESSAGE value="Added dendrogram output files from apocrita." />
     <MESSAGE value="Change figure size." />
-    <option name="LAST_COMMIT_MESSAGE" value="Change figure size." />
+    <MESSAGE value="Edited README." />
+    <option name="LAST_COMMIT_MESSAGE" value="Edited README." />
   </component>
 </project>
