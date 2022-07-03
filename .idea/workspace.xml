@@ -3,8 +3,7 @@
   <component name="ChangeListManager">
     <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Change figure size.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cluster_analysis/apocrita_out_files/complete_lnk_dendro.png" beforeDir="false" afterPath="$PROJECT_DIR$/cluster_analysis/apocrita_out_files/complete_lnk_dendro.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cluster_analysis/apocrita_out_files/single_lnk_dendro.png" beforeDir="false" afterPath="$PROJECT_DIR$/cluster_analysis/apocrita_out_files/single_lnk_dendro.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -78,7 +77,8 @@
       <workItem from="1656499463633" duration="18657000" />
       <workItem from="1656532738244" duration="206000" />
       <workItem from="1656534601995" duration="6826000" />
-      <workItem from="1656581437877" duration="7597000" />
+      <workItem from="1656581437877" duration="7632000" />
+      <workItem from="1656848495340" duration="1833000" />
     </task>
     <task id="LOCAL-00001" summary="Created repo.">
       <created>1656344597585</created>
@@ -304,7 +304,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656679369501</updated>
     </task>
-    <option name="localTasksCounter" value="33" />
+    <task id="LOCAL-00033" summary="Change figure size.">
+      <created>1656680465747</created>
+      <option name="number" value="00033" />
+      <option name="presentableId" value="LOCAL-00033" />
+      <option name="project" value="LOCAL" />
+      <updated>1656680465747</updated>
+    </task>
+    <option name="localTasksCounter" value="34" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
