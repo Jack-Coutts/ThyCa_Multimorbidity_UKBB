@@ -35,6 +35,8 @@ thyroidecto = op_data.loc[op_data['oper4'].str.contains('b08', case=False, na=Fa
 
 print(len(thyroidecto.index))
 
+t_thryoidecto = op_data.loc[op_data['oper4'].str.contains('b081', case=False, na=False)]
 
+print(len(t_thryoidecto))
 
 
