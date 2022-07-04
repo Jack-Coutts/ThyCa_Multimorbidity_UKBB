@@ -1,11 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Changed thyroidectomy output.">
-      <change afterPath="$PROJECT_DIR$/visualisations/thyroid_cancer.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualisations/visualisation_functions.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Started visualisations for thyroid cancer." />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -89,14 +85,7 @@
       <workItem from="1656848495340" duration="1912000" />
       <workItem from="1656872337780" duration="1630000" />
       <workItem from="1656884731493" duration="2000" />
-      <workItem from="1656933995921" duration="14480000" />
-    </task>
-    <task id="LOCAL-00004" summary="Added dummy data notebook.">
-      <created>1656435274024</created>
-      <option name="number" value="00004" />
-      <option name="presentableId" value="LOCAL-00004" />
-      <option name="project" value="LOCAL" />
-      <updated>1656435274024</updated>
+      <workItem from="1656933995921" duration="14729000" />
     </task>
     <task id="LOCAL-00005" summary="Created Jupyter notebook for creating dummy data.">
       <created>1656455458331</created>
@@ -434,7 +423,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656948180214</updated>
     </task>
-    <option name="localTasksCounter" value="53" />
+    <task id="LOCAL-00053" summary="Started visualisations for thyroid cancer.">
+      <created>1656948963236</created>
+      <option name="number" value="00053" />
+      <option name="presentableId" value="LOCAL-00053" />
+      <option name="project" value="LOCAL" />
+      <updated>1656948963236</updated>
+    </task>
+    <option name="localTasksCounter" value="54" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -456,7 +452,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Fixed data_exploration script. Read in dictionary as tsv rather than dataframe." />
     <MESSAGE value="Remove userId from coversion functions." />
     <MESSAGE value="Apocrita data exploration output files added." />
     <MESSAGE value="Cluster dendrogram functions." />
@@ -481,6 +476,7 @@
     <MESSAGE value="Thyroidectomy investigation file." />
     <MESSAGE value="Added number with total thryroidectomy." />
     <MESSAGE value="Changed thyroidectomy output." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed thyroidectomy output." />
+    <MESSAGE value="Started visualisations for thyroid cancer." />
+    <option name="LAST_COMMIT_MESSAGE" value="Started visualisations for thyroid cancer." />
   </component>
 </project>
