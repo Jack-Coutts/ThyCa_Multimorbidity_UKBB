@@ -1,5 +1,5 @@
 import pandas as pd
-
+import numpy as np
 
 # Function to read in dataframe from tsv
 def tsv_to_df(tsv, index_col=False, transpose=False):
