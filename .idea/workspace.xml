@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Edited spelling mistakes in arm analysis file.">
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Removed Apocrita output files. Results not public yet.">
+      <change afterPath="$PROJECT_DIR$/medications/med_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/medications/med_functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -80,7 +82,7 @@
       <workItem from="1656848495340" duration="1912000" />
       <workItem from="1656872337780" duration="1630000" />
       <workItem from="1656884731493" duration="2000" />
-      <workItem from="1656933995921" duration="5263000" />
+      <workItem from="1656933995921" duration="8557000" />
     </task>
     <task id="LOCAL-00001" summary="Created repo.">
       <created>1656344597585</created>
@@ -362,7 +364,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656938403786</updated>
     </task>
-    <option name="localTasksCounter" value="41" />
+    <task id="LOCAL-00041" summary="Removed Apocrita output files. Results not public yet.">
+      <created>1656939496526</created>
+      <option name="number" value="00041" />
+      <option name="presentableId" value="LOCAL-00041" />
+      <option name="project" value="LOCAL" />
+      <updated>1656939496526</updated>
+    </task>
+    <option name="localTasksCounter" value="42" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -384,7 +393,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Written checklist and phecodes txt file added." />
     <MESSAGE value="Added line break to readme." />
     <MESSAGE value="All col frequency function." />
     <MESSAGE value="Phecode conversion function." />
@@ -409,6 +417,7 @@
     <MESSAGE value="Added files with cluster analysis functions and script to run them." />
     <MESSAGE value="Added association rule functions and arm analysis script." />
     <MESSAGE value="Edited spelling mistakes in arm analysis file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Edited spelling mistakes in arm analysis file." />
+    <MESSAGE value="Removed Apocrita output files. Results not public yet." />
+    <option name="LAST_COMMIT_MESSAGE" value="Removed Apocrita output files. Results not public yet." />
   </component>
 </project>
