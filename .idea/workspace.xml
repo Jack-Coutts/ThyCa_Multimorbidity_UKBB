@@ -1,8 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Added old thyroxine &amp; thyroid cancer prevalence file.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Fixed indexing error in med_analysis.">
       <change beforePath="$PROJECT_DIR$/medications/med_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/medications/med_analysis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
@@ -81,7 +80,7 @@
       <workItem from="1656848495340" duration="1912000" />
       <workItem from="1656872337780" duration="1630000" />
       <workItem from="1656884731493" duration="2000" />
-      <workItem from="1656933995921" duration="9820000" />
+      <workItem from="1656933995921" duration="10155000" />
     </task>
     <task id="LOCAL-00001" summary="Created repo.">
       <created>1656344597585</created>
@@ -384,7 +383,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656943864683</updated>
     </task>
-    <option name="localTasksCounter" value="44" />
+    <task id="LOCAL-00044" summary="Fixed indexing error in med_analysis.">
+      <created>1656944074078</created>
+      <option name="number" value="00044" />
+      <option name="presentableId" value="LOCAL-00044" />
+      <option name="project" value="LOCAL" />
+      <updated>1656944074078</updated>
+    </task>
+    <option name="localTasksCounter" value="45" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -406,7 +412,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Phecode conversion function." />
     <MESSAGE value="Subset function &amp; some other simple ones." />
     <MESSAGE value="Written data exploration analysis file." />
     <MESSAGE value="Fixed errors." />
@@ -431,6 +436,7 @@
     <MESSAGE value="Removed Apocrita output files. Results not public yet." />
     <MESSAGE value="Added medication analysis." />
     <MESSAGE value="Added old thyroxine &amp; thyroid cancer prevalence file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Added old thyroxine &amp; thyroid cancer prevalence file." />
+    <MESSAGE value="Fixed indexing error in med_analysis." />
+    <option name="LAST_COMMIT_MESSAGE" value="Fixed indexing error in med_analysis." />
   </component>
 </project>

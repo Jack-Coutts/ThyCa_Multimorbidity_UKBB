@@ -1,7 +1,7 @@
 from med_functions import *
 
 # Read in disease data
-data = tsv_to_df('/data/home/bt211037/dissertation/input/raw_data/phecodes_clean_2021.txt', 0)
+data = tsv_to_df('/data/home/bt211037/dissertation/input/raw_data/phecodes_clean_2021.txt')
 
 # Read in medication data
 mdata = tsv_to_df('/data/home/bt211037/dissertation/input/raw_data/full_med_20003_phec_nona_over20.txt', 0)
