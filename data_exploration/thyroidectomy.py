@@ -33,10 +33,13 @@ op_data = op_data.loc[op_data.index.isin(thyca_patients)]
 # Look at those with throidectomy
 thyroidecto = op_data.loc[op_data['oper4'].str.contains('b08', case=False, na=False)]
 
-print(len(thyroidecto.index))
+print()
+print(f'Number with any form of thyroidectomy: {len(thyroidecto)}')
 
+# Look only at those with total thyroidectomy
 t_thryoidecto = op_data.loc[op_data['oper4'].str.contains('b081', case=False, na=False)]
 
-print(len(t_thryoidecto))
+print()
+print(f'Number with total thyroidectomy: {len(t_thryoidecto)}')
 
 

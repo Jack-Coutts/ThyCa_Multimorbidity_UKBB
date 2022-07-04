@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Thyroidectomy investigation file.">
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Added number with total thryroidectomy.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/data_exploration/thyroidectomy.py" beforeDir="false" afterPath="$PROJECT_DIR$/data_exploration/thyroidectomy.py" afterDir="false" />
     </list>
@@ -81,14 +81,7 @@
       <workItem from="1656848495340" duration="1912000" />
       <workItem from="1656872337780" duration="1630000" />
       <workItem from="1656884731493" duration="2000" />
-      <workItem from="1656933995921" duration="13567000" />
-    </task>
-    <task id="LOCAL-00002" summary="Added functions files.">
-      <created>1656345064441</created>
-      <option name="number" value="00002" />
-      <option name="presentableId" value="LOCAL-00002" />
-      <option name="project" value="LOCAL" />
-      <updated>1656345064441</updated>
+      <workItem from="1656933995921" duration="13837000" />
     </task>
     <task id="LOCAL-00003" summary="Added data exploration folder.">
       <created>1656433773913</created>
@@ -426,7 +419,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656947473369</updated>
     </task>
-    <option name="localTasksCounter" value="51" />
+    <task id="LOCAL-00051" summary="Added number with total thryroidectomy.">
+      <created>1656947832431</created>
+      <option name="number" value="00051" />
+      <option name="presentableId" value="LOCAL-00051" />
+      <option name="project" value="LOCAL" />
+      <updated>1656947832431</updated>
+    </task>
+    <option name="localTasksCounter" value="52" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -448,7 +448,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Testing exploratory functions complete." />
     <MESSAGE value="Fixed issues found in testing." />
     <MESSAGE value="Fixed data_exploration script. Read in dictionary as tsv rather than dataframe." />
     <MESSAGE value="Remove userId from coversion functions." />
@@ -473,6 +472,7 @@
     <MESSAGE value="Numpy import." />
     <MESSAGE value="Added missing import statements." />
     <MESSAGE value="Thyroidectomy investigation file." />
-    <option name="LAST_COMMIT_MESSAGE" value="Thyroidectomy investigation file." />
+    <MESSAGE value="Added number with total thryroidectomy." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added number with total thryroidectomy." />
   </component>
 </project>
