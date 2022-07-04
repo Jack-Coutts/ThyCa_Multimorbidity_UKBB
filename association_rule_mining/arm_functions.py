@@ -1,9 +1,18 @@
-
 import pandas as pd
 import numpy as np
 from mlxtend.frequent_patterns import apriori, association_rules
 
 
+# Function to read in dataframe from tsv
+def tsv_to_df(tsv, index_col=False, transpose=False):
+    data = pd.read_csv(tsv, sep='\t', header=0, index_col=index_col)  # Read in tsv
+    if transpose:
+        data = data.T  # Data needs to be transposed for clustering
+
+    return data
+
+
+# Split large dataframe into many smaller ones
 def split_df(dataframe, col_of_interest, split_num):
     # Store column of interest
     col = dataframe[col_of_interest]
@@ -14,7 +23,7 @@ def split_df(dataframe, col_of_interest, split_num):
     # Split the dataframe (creates an array)
     split_array = np.array_split(data_noThyCa, split_num, axis=1)
 
-    # Empty list 
+    # Empty list
     split_dataframes = []
 
     # Turn each item in array to df
@@ -75,6 +84,4 @@ def multi_df_ARM(min_support, metric, min_threshold, target_col, out_filename, d
     all_results.to_csv(out_filename, sep='\t')
 
     return all_results
-
-
 

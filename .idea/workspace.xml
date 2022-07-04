@@ -1,11 +1,12 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Move dendrograms.">
-      <change afterPath="$PROJECT_DIR$/cluster_analysis/create_cluster_functions.py" afterDir="false" />
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Added files with cluster analysis functions and script to run them.">
+      <change afterPath="$PROJECT_DIR$/association_rule_mining/arm_analysis.py" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/association_rule_mining/arm_functions.py" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/cluster_analysis/AH_clustering_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/cluster_analysis/create_cluster.py" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/phase1_functions/clustering_functions.py" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/cluster_analysis/create_cluster.py" beforeDir="false" afterPath="$PROJECT_DIR$/cluster_analysis/create_cluster.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/phase1_functions/ARM_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/phase1_functions/ARM_functions.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -83,7 +84,7 @@
       <workItem from="1656848495340" duration="1912000" />
       <workItem from="1656872337780" duration="1630000" />
       <workItem from="1656884731493" duration="2000" />
-      <workItem from="1656933995921" duration="1851000" />
+      <workItem from="1656933995921" duration="3907000" />
     </task>
     <task id="LOCAL-00001" summary="Created repo.">
       <created>1656344597585</created>
@@ -344,7 +345,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656882951815</updated>
     </task>
-    <option name="localTasksCounter" value="38" />
+    <task id="LOCAL-00038" summary="Added files with cluster analysis functions and script to run them.">
+      <created>1656935896038</created>
+      <option name="number" value="00038" />
+      <option name="presentableId" value="LOCAL-00038" />
+      <option name="project" value="LOCAL" />
+      <updated>1656935896038</updated>
+    </task>
+    <option name="localTasksCounter" value="39" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -366,7 +374,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Change filename, add exploratory functions." />
     <MESSAGE value="Additional functions." />
     <MESSAGE value="Column value frequency function." />
     <MESSAGE value="Written checklist and phecodes txt file added." />
@@ -391,6 +398,7 @@
     <MESSAGE value="Edited README." />
     <MESSAGE value="Changed dendrogram size." />
     <MESSAGE value="Move dendrograms." />
-    <option name="LAST_COMMIT_MESSAGE" value="Move dendrograms." />
+    <MESSAGE value="Added files with cluster analysis functions and script to run them." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added files with cluster analysis functions and script to run them." />
   </component>
 </project>

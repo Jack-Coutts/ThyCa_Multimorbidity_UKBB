@@ -13,5 +13,5 @@ ThyCa_clust = find_ThyCa_clust(data, 'p193', predictions)
 target_diseases = list_clust_diseases(ThyCa_clust, predictions, data)
 
 # Create tsv containing only data for diseases in ThyCa cluster
-refined_dataframe(data, target_diseases, '/data/home/bt211037/dissertation/cluster_analysis/ThyCa_cluster.tsv', 0)
+refined_dataframe(data, target_diseases, '/data/home/bt211037/dissertation/cluster_analysis/ThyCa_cluster.tsv', True)
 
