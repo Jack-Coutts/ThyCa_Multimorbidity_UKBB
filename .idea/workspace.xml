@@ -1,8 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Fixed indexing error and incorrect use of function in med_analysis.py.">
-      <change beforePath="$PROJECT_DIR$/medications/med_functions.py" beforeDir="false" afterPath="$PROJECT_DIR$/medications/med_functions.py" afterDir="false" />
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Added missing import statements.">
+      <change afterPath="$PROJECT_DIR$/data_exploration/HESDataDic092019.xlsx" afterDir="false" />
+      <change afterPath="$PROJECT_DIR$/data_exploration/thyroidectomy.py" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +82,7 @@
       <workItem from="1656848495340" duration="1912000" />
       <workItem from="1656872337780" duration="1630000" />
       <workItem from="1656884731493" duration="2000" />
-      <workItem from="1656933995921" duration="10881000" />
+      <workItem from="1656933995921" duration="13210000" />
     </task>
     <task id="LOCAL-00001" summary="Created repo.">
       <created>1656344597585</created>
@@ -411,7 +413,21 @@
       <option name="project" value="LOCAL" />
       <updated>1656944886985</updated>
     </task>
-    <option name="localTasksCounter" value="48" />
+    <task id="LOCAL-00048" summary="Numpy import.">
+      <created>1656945132723</created>
+      <option name="number" value="00048" />
+      <option name="presentableId" value="LOCAL-00048" />
+      <option name="project" value="LOCAL" />
+      <updated>1656945132723</updated>
+    </task>
+    <task id="LOCAL-00049" summary="Added missing import statements.">
+      <created>1656945185880</created>
+      <option name="number" value="00049" />
+      <option name="presentableId" value="LOCAL-00049" />
+      <option name="project" value="LOCAL" />
+      <updated>1656945185880</updated>
+    </task>
+    <option name="localTasksCounter" value="50" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -433,8 +449,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Fixed errors." />
-    <MESSAGE value="Fixed phecode translation. Still need to add to functions file." />
     <MESSAGE value="Testing exploratory functions." />
     <MESSAGE value="Testing exploratory functions complete." />
     <MESSAGE value="Fixed issues found in testing." />
@@ -458,6 +472,8 @@
     <MESSAGE value="Fixed indexing error in med_analysis." />
     <MESSAGE value="Deleted old prevalence file." />
     <MESSAGE value="Fixed indexing error and incorrect use of function in med_analysis.py." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed indexing error and incorrect use of function in med_analysis.py." />
+    <MESSAGE value="Numpy import." />
+    <MESSAGE value="Added missing import statements." />
+    <option name="LAST_COMMIT_MESSAGE" value="Added missing import statements." />
   </component>
 </project>
