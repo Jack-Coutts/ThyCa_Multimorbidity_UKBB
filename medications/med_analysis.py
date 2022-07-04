@@ -10,7 +10,7 @@ mdata = tsv_to_df('/data/home/bt211037/dissertation/input/raw_data/full_med_2000
 med_ids = mdata.index.tolist()
 
 # Retain disease data participants only if there is mediction data
-data = data.loc[data.isin(med_ids)]
+data = data.loc[data['userId'].isin(med_ids)]
 
 # Add thyroxine medication column to disease dataframe
 add_col(data, 'thyroxine medication', mdata, 'm1140874852', 'm1140884516', 'm1140910814', 'm1141191044')
