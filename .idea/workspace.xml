@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Fixed indexing error in med_analysis.">
-      <change beforePath="$PROJECT_DIR$/data_exploration/thyca_&amp;_thyroxine.py" beforeDir="false" />
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Deleted old prevalence file.">
+      <change beforePath="$PROJECT_DIR$/medications/med_analysis.py" beforeDir="false" afterPath="$PROJECT_DIR$/medications/med_analysis.py" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -80,7 +80,7 @@
       <workItem from="1656848495340" duration="1912000" />
       <workItem from="1656872337780" duration="1630000" />
       <workItem from="1656884731493" duration="2000" />
-      <workItem from="1656933995921" duration="10478000" />
+      <workItem from="1656933995921" duration="10626000" />
     </task>
     <task id="LOCAL-00001" summary="Created repo.">
       <created>1656344597585</created>
@@ -397,7 +397,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656944395224</updated>
     </task>
-    <option name="localTasksCounter" value="46" />
+    <task id="LOCAL-00046" summary="Deleted old prevalence file.">
+      <created>1656944731752</created>
+      <option name="number" value="00046" />
+      <option name="presentableId" value="LOCAL-00046" />
+      <option name="project" value="LOCAL" />
+      <updated>1656944731752</updated>
+    </task>
+    <option name="localTasksCounter" value="47" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -419,7 +426,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Subset function &amp; some other simple ones." />
     <MESSAGE value="Written data exploration analysis file." />
     <MESSAGE value="Fixed errors." />
     <MESSAGE value="Fixed phecode translation. Still need to add to functions file." />
@@ -444,6 +450,7 @@
     <MESSAGE value="Added medication analysis." />
     <MESSAGE value="Added old thyroxine &amp; thyroid cancer prevalence file." />
     <MESSAGE value="Fixed indexing error in med_analysis." />
-    <option name="LAST_COMMIT_MESSAGE" value="Fixed indexing error in med_analysis." />
+    <MESSAGE value="Deleted old prevalence file." />
+    <option name="LAST_COMMIT_MESSAGE" value="Deleted old prevalence file." />
   </component>
 </project>
