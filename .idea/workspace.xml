@@ -1,7 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Started visualisations for thyroid cancer." />
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="README updated wih methodology outline.">
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -86,13 +88,10 @@
       <workItem from="1656872337780" duration="1630000" />
       <workItem from="1656884731493" duration="2000" />
       <workItem from="1656933995921" duration="14729000" />
-    </task>
-    <task id="LOCAL-00005" summary="Created Jupyter notebook for creating dummy data.">
-      <created>1656455458331</created>
-      <option name="number" value="00005" />
-      <option name="presentableId" value="LOCAL-00005" />
-      <option name="project" value="LOCAL" />
-      <updated>1656455458331</updated>
+      <workItem from="1656959115391" duration="405000" />
+      <workItem from="1657813653368" duration="23000" />
+      <workItem from="1657813678415" duration="1000" />
+      <workItem from="1657878774194" duration="2000" />
     </task>
     <task id="LOCAL-00006" summary="Editing prevalence functions.">
       <created>1656456141144</created>
@@ -430,7 +429,14 @@
       <option name="project" value="LOCAL" />
       <updated>1656948963236</updated>
     </task>
-    <option name="localTasksCounter" value="54" />
+    <task id="LOCAL-00054" summary="README updated wih methodology outline.">
+      <created>1656959396293</created>
+      <option name="number" value="00054" />
+      <option name="presentableId" value="LOCAL-00054" />
+      <option name="project" value="LOCAL" />
+      <updated>1656959396293</updated>
+    </task>
+    <option name="localTasksCounter" value="55" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -452,7 +458,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Remove userId from coversion functions." />
     <MESSAGE value="Apocrita data exploration output files added." />
     <MESSAGE value="Cluster dendrogram functions." />
     <MESSAGE value="Added dendrogram.py." />
@@ -477,6 +482,7 @@
     <MESSAGE value="Added number with total thryroidectomy." />
     <MESSAGE value="Changed thyroidectomy output." />
     <MESSAGE value="Started visualisations for thyroid cancer." />
-    <option name="LAST_COMMIT_MESSAGE" value="Started visualisations for thyroid cancer." />
+    <MESSAGE value="README updated wih methodology outline." />
+    <option name="LAST_COMMIT_MESSAGE" value="README updated wih methodology outline." />
   </component>
 </project>
