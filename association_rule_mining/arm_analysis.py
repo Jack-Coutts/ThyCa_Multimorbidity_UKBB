@@ -7,7 +7,7 @@ data = tsv_to_df('/data/home/bt211037/dissertation/cluster_analysis/ThyCa_cluste
 small_dfs = split_df(data, 'p193', 20)
 
 # Run analysis of each dataframe and save association riles involving ThyCa
-results = multi_df_ARM(0.0001, 'confidence', 0.001, 'p193',
+results = multi_df_ARM(0.0001, 'lift', 0.001, 'p193',
                        '/data/home/bt211037/dissertation/association_rule_mining/ThyCa_arm_results.tsv',
                        small_dfs)
 
