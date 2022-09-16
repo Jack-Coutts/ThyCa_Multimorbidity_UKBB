@@ -1,0 +1,788 @@
+	Disease	Prevalence (%)
+0	Intestinal infection	1.654156663729095
+1	Bacterial enteritis	1.1261535033073005
+2	Intestinal infection due to C. difficile	0.3314897539530596
+3	Viral Enteritis	0.3839102116064464
+4	Intestinal infection due to protozoa	0.0238044590310065
+5	Septicemia	2.9036375239310788
+6	Bacterial infection NOS	4.361787259043163
+7	Herpes zoster	0.2327265728669685
+8	Herpes zoster with nervous system complications	0.0628032536137194
+9	Herpes simplex	0.0896465797550673
+10	Viral hepatitis	0.2785628184479493
+11	Viral hepatitis A	0.0283627596965184
+12	Viral hepatitis B	0.092178969013685
+13	Viral hepatitis C	0.1223144011912359
+14	Chronic hepatitis	0.1175028615998622
+15	Hepatitis NOS	0.1238338347464065
+16	Viral warts & HPV	0.4419019256287922
+17	Viral infection	0.966359741088522
+18	Varicella infection	0.0238044590310065
+19	Infectious mononucleosis	0.0225382644016977
+20	Viremia NOS	0.7108416648939941
+21	Postoperative infection	1.7749516313651603
+22	Infection/inflammation of internal prosthetic device  implant  and graft	1.0858885140952783
+23	Sexually transmitted infections (not HIV or hepatitis)	0.015447574477568
+24	Burns	0.1856241326566789
+25	Foreign body injury	0.4302529350391508
+26	Symptoms concerning nutrition metabolism and development	3.2214523758876026
+27	Other signs and symptoms involving emotional state	0.3834037337547229
+28	Crushing injury	0.0655888817981989
+29	Injury to blood vessels	0.034440493917201
+30	Crushing or internal injury to organs	0.0845818012378318
+31	Injury NOS	0.542184540270054
+32	Other tests	1.579704419525734
+33	Complications of surgical and medical procedures	3.4795028413407483
+34	Late effect	0.0189929194396329
+35	Asphyxia and hypoxemia	0.1752413366963462
+36	Effects of heat cold and air pressure	0.0197526362172182
+37	Effects of other external causes	1.0613243382866868
+38	Other ill-defined and unknown causes of morbidity and mortality	6.536856393269923
+39	Dermatophytosis / Dermatomycosis	0.1628326293291194
+40	Dermatophytosis	0.133203675003292
+41	Dermatophytosis of nail	0.0420376616930541
+42	Althete's foot	0.063309731465443
+43	Dermatophytosis of the body	0.0227915033275594
+44	Dermatomycoses	0.032161343584445
+45	Candidiasis	0.9716777585316194
+46	Candidiasis of skin and nails	0.0270965650672096
+47	Mycoses	0.1375087367429422
+48	Aspergillosis	0.0838220844602465
+49	Spirochetal infection	0.0359599274723716
+50	Lyme disease	0.0164605301810151
+51	Protozoan infection	0.0068374509982678
+52	Infestation (lice mites)	0.0205123529948035
+53	Arthropod-borne diseases	0.0584981918740693
+54	Helminthiases	0.063309731465443
+55	Intestinal helminthiases	0.0529269355051103
+56	Other infectious and parasitic diseases	0.0430506173965012
+57	Cancer of mouth	0.2919844815186231
+58	Cancer of lip	0.0217785476241123
+59	Cancer of tongue	0.1408008427791452
+60	Cancer of major salivary glands	0.054446369060281
+61	Cancer of the gums	0.0179799637361858
+62	Cancer of larynx pharynx nasal cavities	0.3018607996272323
+63	Cancer of oropharynx	0.1187690562291711
+64	Cancer of nasopharynx	0.0164605301810151
+65	Cancer of larynx	0.1073733045653913
+66	Cancer of of nasal cavities	0.0392520335085746
+67	Cancer of intrathoracic organs	0.0270965650672096
+68	Cancer within the respiratory system	1.579957658451596
+69	Cancer of bronchus  lung	1.2428966481295771
+70	Cancer of bone and connective tissue	0.2084156359842384
+71	Bone cancer	0.0711601381671579
+72	Cancer of connective tissue	0.1438397098894865
+73	Skin cancer	3.929761651522979
+74	Melanomas of skin dx or hx	1.0284032779246564
+75	Melanomas of skin	1.0284032779246564
+76	Other non-epithelial cancer of skin	2.8193089616191087
+77	Basal cell carcinoma	0.0169670080327387
+78	Squamous cell carcinoma	0.0131684241448121
+79	Carcinoma in situ of skin	0.3915073793822995
+80	Neoplasm of uncertain behavior of skin	0.0597643865033782
+81	Cancer of urinary organs (incl. kidney and bladder)	1.6306054436239503
+82	Cancer of kidney and renal pelvis	0.5176203644614621
+83	Malignant neoplasm of kidney except pelvis	0.4953353389856261
+84	Malignant neoplasm of renal pelvis	0.0364664053240951
+85	Cancer of bladder	1.0891806201314815
+86	Malignant neoplasm of bladder	0.9729439531609282
+87	Malignant neoplasm of other urinary organs	0.1144639944895209
+88	Cancer of eye	0.0817961730533523
+89	Manlignant and unknown neoplasms of brain and nervous system	0.3431387445427011
+90	Cancer of brain and nervous system	0.2785628184479493
+91	Cancer of brain	0.2598231379341781
+92	Thyroid cancer	0.1737219031411756
+93	Cancer of other endocrine glands	0.0405182281378835
+94	Myeloproliferative disease	0.4971080114666585
+95	Polycythemia vera	0.1686571246239402
+96	Hodgkin's disease	0.1018020481964323
+97	Cancer of other lymphoid histiocytic tissue	0.8242927036800681
+98	Non-Hodgkins lymphoma	0.8207473587180032
+99	Nodular lymphoma	0.1580210897377457
+100	Large cell lymphoma	0.2924909593703467
+101	Leukemia	0.8645576928920898
+102	Lymphoid leukemia	0.2798290130772581
+103	Lymphoid leukemia acute	0.0293757153999655
+104	Lymphoid leukemia chronic	0.2441223245307482
+105	Myeloid leukemia	0.2263955997204242
+106	Myeloid leukemia acute	0.1605534789963635
+107	Monocytic leukemia	0.0260836093637625
+108	Multiple myeloma	0.318827807659971
+109	Benign neoplasm of colon	10.305811326870677
+110	Benign neoplasm of lip oral cavity and pharynx	0.3502294344668308
+111	Benign neoplasm of other parts of digestive system	2.9125008863362405
+112	Benign neoplasm of respiratory and intrathoracic organs	0.1483980105549984
+113	Lipoma	2.277630899200778
+114	Lipoma of skin and subcutaneous tissue	1.5895807376343434
+115	Other benign neoplasm of connective and other soft tissue	0.2124674587980267
+116	Benign neoplasm of skin	2.103402518207879
+117	Vascular hamartomas and non-neoplastic nevi	0.266660588932446
+118	Nevus non-neoplastic	0.249946819825569
+119	Benign neoplasm of eye	0.0729328106481903
+120	Benign neoplasm of eye uveal	0.0463427234327042
+121	Benign neoplasm of brain and other parts of nervous system	0.3920138572340231
+122	Benign neoplasm of brain cranial nerves meninges	0.3707417874616343
+123	Benign neoplasm of spinal cord meninges	0.0227915033275594
+124	Benign neoplasm of thyroid glands	0.1040811985291883
+125	Benign neoplasm of other endocrine glands and related structures	0.4692517296218637
+126	Benign neoplasm of adrenal gland	0.123327356894683
+127	Benign neoplasm of parathyroid gland	0.1937277782842556
+128	Benign neoplasm of pituitary gland and craniopharyngeal duct (pouch)	0.1529563112205103
+129	Hemangioma and lymphangioma any site	0.6569017736854368
+130	Benign neoplasm of unspecified sites	0.0802767394981817
+131	Hypothyroidism	6.713363924595578
+132	Hypothyroidism NOS	6.381114453864932
+133	Diabetes mellitus	9.35743154951834
+134	Type 2 diabetes	9.067979457258334
+135	Disorders of parathyroid gland	0.5153412141287061
+136	Hyperparathyroidism	0.4573495001063603
+137	Hypoparathyroidism	0.1086394991947002
+138	Disorders of the pituitary gland and its hypothalamic control	0.3608654693530252
+139	Pituitary hyperfunction	0.0719198549447432
+140	Acromegaly and gigantism	0.0334275382137539
+141	Pituitary hypofunction	0.1187690562291711
+142	Diabetes insipidus	0.0369728831758187
+143	Other disorders of neurohypophysis	0.1309245246705361
+144	Diseases of thymus gland	0.0101295570344708
+145	Disorders of adrenal glands	0.2975557378875822
+146	Adrenal hyperfunction	0.0815429341274906
+147	Cushing's syndrome	0.0453297677292571
+148	Hyperaldosteronism	0.034440493917201
+149	Adrenal hypofunction	0.1169963837481387
+150	Glucocorticoid deficiency	0.1169963837481387
+151	Adrenogenital disorders	0.0068374509982678
+152	Iatrogenic endocrine disorders	0.0443168120258101
+153	Other endocrine disorders	0.0643226871688901
+154	Carcinoid syndrome	0.0174734858844622
+155	Protein-calorie malnutrition	0.1537160279980956
+156	Cachexia	0.0438103341740865
+157	severe protein-calorie malnutrition	0.0086101234793002
+158	Anorexia	0.5226851429786975
+159	Vitamin deficiency	1.6880906797945725
+160	Vitamin B-complex deficiencies	0.7088157534871
+161	Vitamin D deficiency	1.0534739315849715
+162	Mineral deficiency NEC	0.2375381124583422
+163	Other nutritional deficiency	0.017726724810324
+164	Proteinuria	0.137761975668804
+165	Disorders of protein plasma/amino-acid transport and metabolism	0.278816057373811
+166	Disturbances of amino-acid transport	0.015447574477568
+167	Disorders of amino-acid metabolism	0.0058244952948207
+168	Disorders of plasma protein metabolism	0.2575439876014221
+169	Polyclonal hypergammaglobulinemia	0.0083568845534384
+170	Paraproteinemia	0.2225970158324976
+171	Amyloidosis	0.097750225382644
+172	Macroglobulinemia	0.0364664053240951
+173	Disorders of carbohydrate transport and metabolism	0.0807832173499052
+174	Intestinal disaccharidase deficiencies and disaccharide malabsorption	0.0714133770930197
+175	Other disorders of carbohydrate transport and metabolism	0.0093698402568855
+176	Disorders of lipoid metabolism	16.954092847519778
+177	Hyperlipidemia	16.87558878050263
+178	Hypercholesterolemia	15.651938290738546
+179	Gout and other crystal arthropathies	1.638709089251527
+180	Gout	1.6037621174826024
+181	Gouty arthropathy	0.0539398912085574
+182	Crystal arthropathies	0.0417844227671923
+183	Chondrocalcinosis	0.026590087215486
+184	Disorders of mineral metabolism	1.5999635335946758
+185	Disorders of iron metabolism	0.3114838788099796
+186	Disorders of copper metabolism	0.0093698402568855
+187	Disorders of magnesium metabolism	0.5480090355648748
+188	Disorders of calcium/phosphorus metabolism	0.8784858338144873
+189	Disorders of fluid electrolyte and acid-base balance	5.585437748807244
+190	Electrolyte imbalance	3.837582682509294
+191	Hypovolemia	2.24648251131978
+192	Other disorders of metabolism	0.5837157241113846
+193	Disorders of porphyrin metabolism	0.0078504067017149
+194	Disorders of bilirubin excretion	0.2079091581325148
+195	Other disorders of lipoid metabolism	0.0739457663516374
+196	Lipoprotein disorders	0.0263368482896242
+197	Other deficiencies of circulating enzymes	0.0060777342206825
+198	Overweight obesity and other hyperalimentation	7.624264340920371
+199	Obesity	7.5857720241893825
+200	Disorders involving the immune mechanism	0.1339633917808774
+201	Immunity deficiency	0.1116783663050414
+202	Deficiency of humoral immunity	0.0812896952016288
+203	Other immunological findings	0.1058538710102207
+204	Other specified disorders involving the immune mechanism	0.0060777342206825
+205	Other anemias	6.409983691413175
+206	Coagulation defects	0.4335450410753537
+207	Congenital coagulation defects	0.1792931595101346
+208	Von willebrand's disease	0.0440635730999483
+209	Congenital deficiency of other clotting factors (including factor VII)	0.1104121716757326
+210	Congenital factor VIII disorder	0.0238044590310065
+211	Acquired coagulation factor deficiency	0.0060777342206825
+212	Hemorrhagic disorder due to intrinsic circulating anticoagulants	0.032161343584445
+213	Defibrination syndrome	0.0202591140689417
+214	Other and unspecified coagulation defects	0.166631213217046
+215	Hypercoagulable state	0.0934451636429938
+216	Primary hypercoagulable state	0.0934451636429938
+217	Purpura and other hemorrhagic conditions	1.024351455110868
+218	Spontaneous ecchymoses	0.0660953596499225
+219	Allergic purpura	0.0179799637361858
+220	Thrombocytopenia	0.9450876713161336
+221	Primary thrombocytopenia	0.1960069286170115
+222	Secondary thrombocytopenia	0.0503945462464926
+223	Diseases of white blood cells	0.2709656506720961
+224	Decreased white blood cell count	1.5518481376809392
+225	Neutropenia	1.5518481376809392
+226	Eosinophilia	0.0445700509516718
+227	Other diseases of blood and blood-forming organs	0.5105296745373326
+228	Myelofibrosis	0.0364664053240951
+229	Personal history of diseases of blood and blood-forming organs	0.2228502547583594
+230	Lymphadenitis	1.3019013178553702
+231	Diseases of spleen	0.2813484466324287
+232	Polycythemia secondary	0.1638455850325665
+233	Abnormality of red blood cells	0.0395052724344364
+234	Delirium dementia and amnestic and other cognitive disorders	1.6665653710963215
+235	Dementias	1.1575551301141602
+236	Alzheimer's disease	0.6103058113268707
+237	Dementia with cerebral degenerations	0.0519139798016632
+238	Senile dementia	0.7422432917008539
+239	Other persistent mental disorders due to conditions classified elsewhere	0.0086101234793002
+240	Other specified nonpsychotic and/or transient mental disorders	0.2651411553772753
+241	Alteration of consciousness	0.2519727312324632
+242	Neurological disorders	2.555940478722865
+243	Aphasia/speech disturbance	0.591059652961376
+244	Memory loss	0.4036628478236647
+245	Altered mental status	1.637442894622218
+246	Hallucinations	0.212214219872165
+247	Symptoms involving head and neck	0.6956473293422878
+248	Swelling mass or lump in head and neck Space-occupying lesion intracranial NOS	0.3884685122719583
+249	Mood disorders	6.740207250736925
+250	Depression	6.511026022832021
+251	Major depressive disorder	6.490513669837219
+252	Conduct disorders	0.0083568845534384
+253	Pervasive developmental disorders	0.0709068992412961
+254	Attention deficit hyperactivity disorder	0.008863362405162
+255	Autism	0.0481153959137366
+256	Develomental delays and disorders	0.335541576766848
+257	Learning disorder	0.077744350239564
+258	Speech and language disorder	0.0511542630240779
+259	Alcohol-related disorders	2.2583847408352837
+260	Alcoholism	1.694168414015255
+261	Tobacco use disorder	3.3619999797408857
+262	Meningitis	0.1509303998136161
+263	Encephalitis	0.1435864709636247
+264	Acute (transverse) myelitis	0.0283627596965184
+265	Other CNS infection and poliomyelitis	0.1711895138825579
+266	Jakob-Creutzfeldt disease	0.0086101234793002
+267	Phlebitis and thrombophlebitis of intracranial venous sinuses	0.0230447422534212
+268	Sleep disorders	0.5940985200717173
+269	Hypersomnia	0.0422909006189159
+270	Sleep apnea	2.232301131471521
+271	Insomnia	0.1357360642619098
+272	Parasomnia	0.0301354321775508
+273	Circadian rhythm sleep disorder	0.028869237548242
+274	Other headache syndromes	3.378460509921901
+275	Migraine	1.5280436786499327
+276	Abnormal movement	0.7863068648008023
+277	Abnormal involuntary movements	0.5515543805269396
+278	Abnormality of gait	0.0584981918740693
+279	Lack of coordination	0.1960069286170115
+280	Abnormal reflex	0.0078504067017149
+281	Disturbances of sensation of smell and taste	0.0526736965792485
+282	Other peripheral nerve disorders	4.591981442651512
+283	Hereditary and idiopathic peripheral neuropathy	0.0749587220550845
+284	Inflammatory and toxic neuropathy	0.8255588983093769
+285	Myoneural disorders	0.0944581193464409
+286	Myasthenia gravis	0.081036456275767
+287	Muscular dystrophies and other myopathies	0.1314310025222597
+288	Muscular dystrophies	0.052167218727525
+289	Myopathy	0.0858479958671407
+290	Other retinal disorders	2.557713151203898
+291	Glaucoma	2.965174582915489
+292	Cataract	12.127358920594403
+293	Disorders of refraction and accommodation  blindness and low vision	2.264715713981828
+294	Myopia	0.8475906848593512
+295	Astigmatism	0.8399935170834979
+296	Presbyopia	0.0258303704379007
+297	Hypermetropia	0.1760010534739315
+298	Blindness and low vision	0.3947994854185026
+299	Visual disturbances	1.733167208597968
+300	Amblyopia	0.3674496814254313
+301	Diplopia and disorders of binocular vision	0.3742871324236991
+302	Anisometropia	0.1334569139291538
+303	Visual field defects	0.2248761661652535
+304	Color vision deficiencies	0.0225382644016977
+305	Subjective visual disturbances	0.3664367257219841
+306	Psychophysical visual disturbances	0.1511836387394779
+307	Infection of the eye	0.2884391365565584
+308	Eye infection viral	0.0534334133568339
+309	Conjunctivitis infectious	0.1397878870756982
+310	Keratitis	0.1149704723412445
+311	Corneal ulcer	0.0650824039464754
+312	Inflammation of the eye	1.1119721234590412
+313	Uveitis noninfectious or NOS	0.1838514601756465
+314	Conjunctivitis noninfectious	0.0139281409223974
+315	Inflammation of eyelids	0.8693692324834634
+316	Noninfectious dermatoses of eyelid	0.006584212072406
+317	Chronic inflammatory disorders of orbit	0.0058244952948207
+318	Disorders of conjunctiva	0.2702059338945107
+319	Other disorders of eyelids	1.7339269253755534
+320	Ectropion or entropion	0.5469960798614276
+321	Lagophthalmos	0.0326678214361685
+322	Ptosis of eyelid	0.8131501909421501
+323	Disorders of lacrimal system	1.09753750468492
+324	Epiphora	0.3841634505323082
+325	Disorders of the orbit	0.0326678214361685
+326	Disorders of optic nerve and visual pathways	0.1934745393583938
+327	Optic atrophy	0.0336807771396156
+328	Optic neuritis/neuropathy	0.0787573059430111
+329	Strabismus and other disorders of binocular eye movements	0.6308181643216743
+330	Strabismus (not specified as paralytic)	0.2737512788565756
+331	Nystagmus and other irregular eye movements	0.1309245246705361
+332	Paralytic strabismus	0.1440929488153483
+333	Other disorders of eye	0.9607884847195632
+334	Scleritis and episcleritis	0.0197526362172182
+335	Disorders of vitreous body	0.4462069873684423
+336	Aphakia and other disorders of lens	0.1448526655929336
+337	Anomalies of pupillary function	0.0693874656861255
+338	Disorders of iris and ciliary body	0.1838514601756465
+339	Pain swelling or discharge of eye	0.0838220844602465
+340	Disorders of external ear	0.213227175575612
+341	Otitis externa	0.2137336534273356
+342	Impacted cerumen	0.1440929488153483
+343	Otitis media and Eustachian tube disorders	0.7341396460732772
+344	Otitis media	0.5930855643682701
+345	Suppurative and unspecified otitis media	0.2957830654065497
+346	Eustachian tube disorders	0.077744350239564
+347	Mastoiditis & related conditions	0.0357066885465098
+348	Otorrhea	0.0871141904964495
+349	Otalgia	0.1245935515239918
+350	Otosclerosis	0.1018020481964323
+351	Other disorders of tympanic membrane	0.4150585994874444
+352	Myringitis	0.0083568845534384
+353	Perforation of tympanic membrane	0.3109774009582561
+354	Other disorders of middle ear and mastoid	0.2600763768600398
+355	Cholesteatoma	0.1879032829894348
+356	Tympanosclerosis and middle ear disease related to otitis media	0.0759716777585316
+357	Vertiginous syndromes and other disorders of vestibular system	0.9486330162781982
+358	Meniere's disease	0.2707124117462343
+359	Peripheral or central vertigo	0.3527618237254485
+360	Central origin vertigo	0.0073439288499913
+361	Labyrinthitis	0.321106957992727
+362	Dizziness and giddiness (Light-headedness and vertigo)	2.5883550612331723
+363	Other disorders of ear	0.0169670080327387
+364	Hearing loss	3.134084946465291
+365	Sensorineural hearing loss	0.3897347069012672
+366	Conductive hearing loss	0.1656182575135989
+367	Degenerative and vascular disorders of ear	0.1012955703447088
+368	Tinnitus	0.3507359123185543
+369	Rheumatic disease of the heart valves	1.925122314401191
+370	Heart valve disorders	3.247789224177227
+371	Nonrheumatic mitral valve disorders	1.4371309042655565
+372	Nonrheumatic aortic valve disorders	1.6349105053636004
+373	Hypertension	33.52706111161759
+374	Essential hypertension	33.47919895462972
+375	Elevated blood pressure reading without diagnosis of hypertension	0.7174258769664003
+376	Ischemic Heart Disease	12.77438437617123
+377	Pulmonary heart disease	0.6153705898441061
+378	Acute pulmonary heart disease	0.0220317865499741
+379	Pulmonary embolism and infarction acute	0.0212720697723888
+380	Chronic pulmonary heart disease	0.5738394060027755
+381	Primary pulmonary hypertension	0.1706830360308343
+382	Cardiomegaly	2.0193271948217704
+383	Nonspecific chest pain	0.0205123529948035
+384	Precordial pain	1.9210704915874028
+385	Carditis	1.041065224217745
+386	Myocarditis	0.0595111475775164
+387	Pericarditis	0.7240100890388063
+388	Acute pericarditis	0.0812896952016288
+389	Chronic pericarditis	0.0453297677292571
+390	Endocarditis	0.2919844815186231
+391	Cardiomyopathy	0.6870372058629876
+392	Primary/intrinsic cardiomyopathies	0.6690572421268017
+393	Hypertrophic obstructive cardiomyopathy	0.0726795717223285
+394	Other hypertrophic cardiomyopathy	0.1081330213429766
+395	Secondary/extrinsic cardiomyopathies	0.0096230791827473
+396	Cardiac dysrhythmias	10.816087762482146
+397	Congestive heart failure  nonhypertensive	2.8783136313449016
+398	Congestive heart failure (CHF) NOS	1.3411533513639449
+399	Heart failure NOS	1.9567771801339129
+400	Heart failure with reduced EF Systolic or combined heart failure	0.0311483878809979
+401	Heart failure with preserved EF Diastolic heart failure	0.0073439288499913
+402	Ill-defined descriptions and complications of heart disease	0.3175616130306621
+403	Heart transplant/surgery	0.0230447422534212
+404	Abnormal function study of cardiovascular system	0.3175616130306621
+405	Cerebrovascular disease	4.323294942312172
+406	Occlusion of cerebral arteries	1.6121190020360407
+407	Cerebral artery occlusion with cerebral infarction	1.5860353926722786
+408	Cerebral ischemia	1.9111941734787936
+409	Transient cerebral ischemia	0.9833267491212608
+410	Atherosclerosis	0.2545051204910809
+411	Vascular insufficiency of intestine	0.3646640532409517
+412	Other aneurysm	1.0970310268331966
+413	Aortic aneurysm	0.8708886660386341
+414	Abdominal aortic aneurysm	0.5457298852321187
+415	Peripheral vascular disease	2.016541566637291
+416	Raynaud's syndrome	0.6786803213095491
+417	Peripheral vascular disease unspecified	1.3586268372484072
+418	Arterial embolism and thrombosis	0.4097405820443472
+419	Arterial embolism and thrombosis of lower extremity artery	0.2580504654531457
+420	Polyarteritis nodosa and allied conditions	0.439876014221898
+421	Giant cell arteritis	0.2385510681617892
+422	Other disorders of arteries and arterioles	0.6295519696923654
+423	Stricture of artery	0.3917606183081614
+424	Noninfectious disorders of lymphatic channels	0.5163541698321532
+425	Other disorders of circulatory system	8.753456711338012
+426	Circulatory disease NEC	8.68128361746741
+427	Acute sinusitis	0.0785040670171493
+428	Acute upper respiratory infections of multiple or unspecified sites	0.9848461826764316
+429	Acute pharyngitis	0.3818843001995523
+430	Acute laryngitis and tracheitis	0.0648291650206136
+431	Pneumonia	6.094194750863545
+432	Bacterial pneumonia	4.098165537221058
+433	Pneumococcal pneumonia	3.861640380466162
+434	Chronic airway obstruction	5.739660254657064
+435	Cystic fibrosis	0.0081036456275767
+436	Pleurisy  pleural effusion	3.928242217967808
+437	Other diseases of lung	0.7384447078129274
+438	Lung transplant	0.0179799637361858
+439	Other symptoms of respiratory system	4.645414856008347
+440	Shortness of breath	3.3267997690460995
+441	Cough	1.6506113187670302
+442	Respiratory abnormalities	0.2661541110807224
+443	Hypoventilation	0.0739457663516374
+444	Hyperventilation	0.1005358535671235
+445	Disorders of diaphragm	0.0949645971981645
+446	Abnormal findings examination of lungs	1.444474833115548
+447	Abnormal results of function study of pulmonary system	0.0205123529948035
+448	Abnormal sputum	0.906595354585144
+449	Hemoptysis	0.8650641707438133
+450	Other diseases of respiratory system not elsewhere classified	4.944743266376961
+451	Other diseases of respiratory system NEC	4.8001438397098894
+452	Disorders of tooth development	0.6591809240181927
+453	Disturbances in tooth eruption	0.6333505535802919
+454	Diseases of hard tissues of teeth	1.3193748037398323
+455	Dental caries	1.292024999746761
+456	Diseases of pulp and periapical tissues	0.6877969226405729
+457	Pulpitis and necrosis of tooth pulp	0.0217785476241123
+458	Periapical abscess	0.4778618531011639
+459	Gingival and periodontal diseases	0.6845048166043699
+460	Gingivitis	0.0448232898775336
+461	Periodontitis (acute or chronic)	0.4601351282908398
+462	Acute periodontitis	0.0526736965792485
+463	Chronic periodontitis	0.4074614317115912
+464	Other diseases of the teeth and supporting structures	1.052967453733248
+465	Atrophy of edentulous alveolar ridge	0.0260836093637625
+466	Diseases of the jaws	0.0698939435378491
+467	Cysts of the jaws	0.0698939435378491
+468	Diseases of the salivary glands	0.2995816492944764
+469	Hypertrophy of salivary gland	0.0253238925861772
+470	Sialoadenitis	0.1557419394049898
+471	Disturbance of salivary secretion	0.0443168120258101
+472	Other specified diseases of the salivary glands	0.0503945462464926
+473	Diseases of the oral soft tissues excluding lesions specific for gingiva and tongue	0.7858003869490787
+474	Stomatitis and mucositis	0.2367783956807569
+475	Stomatitis and mucositis (ulcerative)	0.2081623970583766
+476	Oral aphthae	0.0303886711034126
+477	Cellulitis and abscess of oral soft tissues	0.0805299784240435
+478	Cysts of oral soft tissues	0.0430506173965012
+479	Cyst of the salivary gland	0.0334275382137539
+480	Diseases of lips	0.2702059338945107
+481	Leukoplakia of oral mucosa	0.0063309731465443
+482	Sialolithiasis	0.1002826146412617
+483	Diseases and other conditions of the tongue	0.5236980986821447
+484	Glossitis	0.1311777635963979
+485	Diseases of esophagus	15.962915691696802
+486	Esophagitis GERD and related diseases	15.12216245783572
+487	Peptic ulcer (excl. esophageal)	3.0971120632894724
+488	Hemorrhage from gastrointestinal ulcer	0.2745109956341609
+489	Gastric ulcer	1.846871486309904
+490	Duodenal ulcer	1.1264067422331625
+491	Peptic ulcer site unspecified	0.1689103635498019
+492	Gastrojejunal ulcer	0.0197526362172182
+493	Gastritis and duodenitis	12.467965275878486
+494	Bariatric surgery	0.0167137691068769
+495	Appendiceal conditions	0.4760891806201314
+496	Appendicitis	0.3801116277185198
+497	Acute appendicitis	0.1962601675428733
+498	Abdominal hernia	14.331297292369404
+499	Diaphragmatic hernia	11.668743225858732
+500	Diarrhea	0.0126619462930886
+501	Constipation	6.368705746497707
+502	Abnormal findings on exam of gastrointestinal tract/ abdominal area	0.9521783612402628
+503	Anal and rectal conditions	6.352245216316691
+504	Chronic liver disease and cirrhosis	2.46654713789366
+505	Other chronic nonalcoholic liver disease	1.9613354807994248
+506	Abnormal results of function study of liver	2.034268291447615
+507	Cholelithiasis and cholecystitis	6.194730604430668
+508	Cholelithiasis	5.46337658654187
+509	Diseases of pancreas	1.3573606426190985
+510	Acute pancreatitis	0.8536684190800337
+511	Chronic pancreatitis	0.2324733339411067
+512	Cyst and pseudocyst of pancreas	0.2203178654997417
+513	Gastrointestinal hemorrhage	8.531872651208964
+514	Renal failure	7.658958073763435
+515	Urinary calculus	2.586329149826278
+516	Calculus of kidney	1.4340920371552153
+517	Calculus of lower urinary tract	0.38441668945817
+518	Calculus of ureter	0.9124198498799648
+519	Renal colic	0.6189159348061709
+520	Hydronephrosis	0.5201527537200797
+521	Other disorders of bladder	3.988766321248772
+522	Other disorders of urethra and urinary tract	1.556659677272313
+523	Abnormal findings on examination of urine	0.1106654106015943
+524	Other nonspecific findings on examination of urine	0.1071200656395295
+525	Other symptoms/disorders or the urinary system	4.71024402102896
+526	Retention of urine	4.105002988219325
+527	Abnormal findings on mammogram or breast exam	0.5206592315718034
+528	Lump or mass in breast	0.5206592315718034
+529	Breast conditions congenital or relating to hormones	0.2869197030013877
+530	Hypertrophy of breast (Gynecomastia)	0.2572907486755604
+531	Other nonmalignant breast conditions	0.5905531751096524
+532	Disorders secondary to childbirth surgery trauma	0.4874849322839112
+533	Complications following abortion or ectopic and molar pregnancies	0.0126619462930886
+534	Late pregnancy and failed induction	0.0458362455809807
+535	Multiple gestation	0.1291518521895037
+536	Malposition and malpresentation of fetus or obstruction	0.4545638719218809
+537	Fetal distress and abnormal forces of labor	0.6556355790561279
+538	Umbilical cord complications during labor and delivery	0.1304180468188126
+539	Obstetrical/birth trauma	1.555393482643004
+540	Complications of the administration of anesthetic or other sedation in labor and delivery	0.0139281409223974
+541	Superficial cellulitis and abscess	0.3552942129840662
+542	Cellulitis and abscess of fingers/toes	0.2669138278583077
+543	Cellulitis and abscess of face/neck	0.0693874656861255
+544	Other local infections of skin and subcutaneous tissue	0.7189453105215708
+545	Carbuncle and furuncle	0.0141813798482592
+546	Impetigo	0.017726724810324
+547	Pyogenic granuloma	0.1337101528550156
+548	Pyoderma	0.0222850254758359
+549	Symptoms affecting skin	0.5923258475906849
+550	Rash and other nonspecific skin eruption	0.9339451585782154
+551	Localized superficial swelling mass or lump	0.4016369364167705
+552	Changes in skin texture	0.0493815905430455
+553	Disturbance of skin sensation	1.2694867353450634
+554	Disorder of skin and subcutaneous tissue NOS	2.8180427669897994
+555	Erythematosquamous dermatosis	1.3961061982759493
+556	Seborrheic dermatitis	1.3867363580190637
+557	Dyschromia and Vitiligo	0.4614013229201487
+558	Erythematous conditions	1.2036446146210027
+559	Pruritus and related conditions	0.3512423901702778
+560	Corns and callosities	0.1251000293757154
+561	Other hypertrophic and atrophic conditions of skin	1.9833672673493987
+562	Keratoderma acquired	0.0245641758085918
+563	Scar conditions and fibrosis of skin	0.8559475694127896
+564	Circumscribed scleroderma	0.2127206977238885
+565	Keloid scar	0.0926854468654085
+566	Abnormal granulation tissue	0.1724557085118667
+567	Acquired acanthosis nigricans	0.0450765288033954
+568	Degenerative skin conditions and other dermatoses	2.43793113927128
+569	Actinic keratosis	1.221118100505465
+570	Seborrheic keratosis	1.347484324510489
+571	Diseases of nail NOS	0.1438397098894865
+572	Ingrowing nail	0.2775498627445021
+573	Diseases of hair and hair follicles	0.18435793802737
+574	Alopecia	0.0848350401636936
+575	Other specified diseases of hair and hair follicles	0.0311483878809979
+576	Disorders of sweat glands	0.0782508280912875
+577	Dyshidrosis	0.0060777342206825
+578	Hidradenitis	0.0628032536137194
+579	Diseases of sebaceous glands	2.840581031391497
+580	Acne	0.0324145825103068
+581	Sebaceous cyst	2.80664701532602
+582	Chronic ulcer of skin	1.6247809483291291
+583	Decubitus ulcer	1.0063714913746822
+584	Chronic ulcer of leg or foot	0.7136272930784736
+585	Osteomyelitis periostitis and other infections involving bone	0.0579917140223458
+586	Osteomyelitis	0.0564722804671751
+587	Chronic osteomyelitis	0.0060777342206825
+588	Unspecified osteomyelitis	0.0493815905430455
+589	Arthropathy associated with infections	0.0420376616930541
+590	Pyogenic arthritis	0.0240576979568683
+591	Reiter's disease	0.0063309731465443
+592	Arthropathy associated with other disorders classified elsewhere	0.0491283516171837
+593	Arthropathy associated with neurological disorders	0.0379858388792658
+594	Rheumatoid arthritis and other inflammatory polyarthropathies	1.620729125515341
+595	Rheumatoid arthritis	1.428774019712118
+596	Juvenile rheumatoid arthritis	0.0086101234793002
+597	Other inflammatory spondylopathies	0.4720373578063431
+598	Sacroiliitis NEC	0.046595962358566
+599	Ankylosing spondylitis	0.1861306105084024
+600	Other arthropathies	0.1197820119326181
+601	Unspecified monoarthritis	0.0098763181086091
+602	Palindromic rheumatism	0.0106360348861944
+603	Arthropathy NOS	0.0407714670637453
+604	Polymyalgia Rheumatica	0.8240394647542063
+605	Spinal stenosis	0.4662128625115224
+606	Spondylosis and allied disorders	0.7726319628042665
+607	Spondylosis without myelopathy	0.7308475400370742
+608	Spondylosis with myelopathy	0.015447574477568
+609	Other allied disorders of spine	0.0293757153999655
+610	Intervertebral disc disorders	0.4191104223012327
+611	Displacement of intervertebral disc	0.0098763181086091
+612	Schmorl's nodes	0.0263368482896242
+613	Degeneration of intervertebral disc	0.006584212072406
+614	Intervertebral disc disorder with myelopathy	0.0139281409223974
+615	Postlaminectomy syndrome	0.026590087215486
+616	Other and unspecified disc disorder	0.3398466385064981
+617	Other disorders of cervical region	0.063309731465443
+618	Torticollis	0.0455830066551189
+619	Other and unspecified disorders of back	0.1542225058498192
+620	Disorders of sacrum	0.1223144011912359
+621	Disorders of coccyx	0.1218079233395123
+622	Other symptoms referable to back	0.0192461583654946
+623	Peripheral enthesopathies and allied syndromes	4.559566860141206
+624	Acquired foot deformities	3.424296755502882
+625	Flat foot	0.0838220844602465
+626	Acquired toe deformities	1.8858702808926169
+627	Hammer toe (acquired)	0.7503469373284307
+628	Hallux rigidus	0.5591515483027928
+629	Hallux valgus (Bunion)	2.323213905855897
+630	Other acquired deformities of limbs	0.1185158173033093
+631	Acquired deformities of finger	0.106613587787806
+632	Curvature of spine	0.3466840895047659
+633	Lordosis (acquired)	0.0053180174430972
+634	Kyphoscoliosis and scoliosis	0.3200940022892799
+635	Other acquired musculoskeletal deformity	0.1202884897843417
+636	Contracture of joint	0.0263368482896242
+637	Osteoarthrosis	17.728750721730936
+638	Symptoms and disorders of the joints	0.4393695363701745
+639	Difficulty in walking	0.1942342561359791
+640	Joint effusions	0.0848350401636936
+641	Derangement of joint non-traumatic	0.1314310025222597
+642	Loose body in joint	0.0164605301810151
+643	Pathological developmental or recurrent dislocation	0.0445700509516718
+644	Other derangement of joint	0.052167218727525
+645	Osteoporosis osteopenia and pathological fracture	0.1813190709170287
+646	Pathologic fracture	0.0471024402102896
+647	Pathologic fracture of vertebrae	0.0055712563689589
+648	Osteopenia or other disorder of bone and cartilage	0.103321481751603
+649	Pain in joint	0.5700408221148489
+650	Cardiac and circulatory congenital anomalies	0.5561126811924514
+651	Cardiac congenital anomalies	0.4796345255821963
+652	Cardiac shunt/ heart septal defect	0.2385510681617892
+653	Valvular heart disease/ heart chambers	0.1400411260015599
+654	Congenital anomalies of great vessels	0.0422909006189159
+655	Congenital anomalies of peripheral vascular system	0.0704004213895726
+656	Anomalies of respiratory system congenital	0.0286159986223802
+657	Congenital anomalies of face and neck	0.1038279596033265
+658	Congenital anomalies of skull and face bones	0.0083568845534384
+659	Digestive congenital anomalies	0.3350350989151244
+660	Upper gastrointestinal congenital anomalies	0.1701765581791108
+661	Esophageal atresia/tracheoesophageal fistula	0.0159540523292916
+662	Congenital anomalies of mouth/tongue	0.0909127743843761
+663	Congenital anomalies of esophagus	0.0334275382137539
+664	Congenital anomalies of stomach	0.0238044590310065
+665	Lower gastrointestinal congenital anomalies	0.1635923461067047
+666	Congenital anomalies of intestine	0.1061071099360825
+667	Congenital anomaly of gallbladder bile ducts liver pancreas	0.0509010240982161
+668	Genitourinary congenital anomalies	0.5429442570476393
+669	Congenital anomalies of genital organs	0.1977796010980439
+670	Congenital anomalies of urinary system	0.3395933995806363
+671	Cystic kidney disease	0.1635923461067047
+672	Other specified congenital anomalies of kidney	0.1623261514773959
+673	Obstructive genitourinary defect	0.0096230791827473
+674	Nervous system congenital anomalies	0.2428561299014394
+675	Neural tube defects	0.2094285916876855
+676	Spina bifida	0.077744350239564
+677	Other specified congenital anomalies of nervous system	0.034440493917201
+678	Congenital anomalies of the eye	0.0625500146878577
+679	Congenital cataract and lens anomalies	0.0341872549913392
+680	Congenital musculoskeletal deformities of spine	0.1230741179688212
+681	Congenital anomalies of limbs	0.1780269648808257
+682	Congenital deformities of feet	0.0883803851257584
+683	Congenital anomaly of fingers/toes	0.0101295570344708
+684	Other congenital anomalies of lower limb including pelvic girdle	0.0628032536137194
+685	Congenital hip dysplasia and deformity	0.0438103341740865
+686	Other congenital musculoskeletal anomalies	0.1653650185877371
+687	Pectus and other congenital anomalies of ribs/sternum	0.0167137691068769
+688	Congenital anomalies of muscle tendon fascia and connective tissue	0.037732599953404
+689	Congenital osteodystrophies	0.0828091287567994
+690	Congenital anomalies of the integument	0.0073439288499913
+691	Chromosomal anomalies and genetic disorders	0.0648291650206136
+692	Chromosomal anomalies	0.0331742992878921
+693	Other and unspecified congenital anomalies	0.077744350239564
+694	Anomalies of endocrine glands congenital	0.0349469717689245
+695	Back pain	3.290333363722005
+696	Cervicalgia	0.5196462758683563
+697	Sciatica	0.8518957465990012
+698	Cervical radiculitis	0.0053180174430972
+699	Neuralgia neuritis and radiculitis NOS	0.1929680615066703
+700	Myalgia and myositis unspecified	0.7298345843336271
+701	Musculoskeletal symptoms referable to limbs	0.3284508868427184
+702	Symptoms of the muscles	0.0106360348861944
+703	Pain in limb	0.0091166013310237
+704	Hypothermia/Chills	0.1478915327032748
+705	Symptoms involving nervous and musculoskeletal systems	2.4690795271522776
+706	Edema	1.3403936345863594
+707	Pallor and flushing	0.0980034643085057
+708	Fever of unknown origin	1.98210107272009
+709	Abdominal pain	7.332026620475887
+710	Syncope and collapse	4.3450734899362855
+711	Nausea and vomiting	5.551503732741767
+712	Nonspecific findings on examination of blood	0.1547289837015427
+713	Elevated sedimentation rate	0.0331742992878921
+714	Other abnormal blood chemistry	0.261089332563487
+715	Nonspecific abnormal findings on radiological and other examination of musculoskeletal system	0.0876206683481731
+716	Nonspecific abnormal findings on radiological and other examination of other intrathoracic organs (echocardiogram etc)	0.3793519109409345
+717	Abnormal results of other function studies (bladder pancreas placenta spleen etc)	0.0139281409223974
+718	Shock	0.0987631810860911
+719	Cardiogenic shock	0.0671083153533696
+720	Malaise and fatigue	2.079598059176872
+721	Chronic fatigue syndrome	0.277803101670364
+722	Fracture of lower limb	0.0704004213895726
+723	Fracture of neck of femur	0.0119022295155032
+724	Fracture of unspecified part of femur	0.0075971677758531
+725	Fracture of tibia and fibula	0.0060777342206825
+726	Fracture of patella	0.0415311838413306
+727	Fracture of ankle and foot	0.0759716777585316
+728	Fracture of foot	0.0567255193930369
+729	Fracture of upper limb	0.3271846922134095
+730	Fracture of humerus	0.0668550764275078
+731	Fracture of radius and ulna	0.1785334427325493
+732	Fracture of clavicle or scapula	0.0883803851257584
+733	Fracture of vertebral column without mention of spinal cord injury	0.0053180174430972
+734	Fracture of ribs	0.095471075049888
+735	Concussion	0.0192461583654946
+736	Skull and face fracture and other intercranial injury	0.0904062965326526
+737	Dislocation	0.2094285916876855
+738	Internal derangement of knee	1.1390686885262509
+739	Sprains and strains	0.2162660426859533
+740	Joint/ligament sprain	0.1137042777119356
+741	Sprains and strains of back and neck	0.0415311838413306
+742	Complications of transplants and reattached limbs	0.0736925274257756
+743	Complications of cardiac/vascular device implant and graft	0.0516607408758015
+744	Complication of nervous system device implant and graft	0.0068374509982678
+745	Vascular complications of surgery and medical procedures	0.0248174147344536
+746	Mechanical complication of unspecified genitourinary device implant and graft	0.5799171402234581
+747	Complication of internal orthopedic device	0.8673433210765693
+748	Complication due to other implant and internal device	0.1408008427791452
+749	Open wounds of head  neck  and trunk	0.3740338934978373
+750	Open wound or laceration of eye or eyelid	0.0402649892120217
+751	Open wound of ear	0.0871141904964495
+752	Other open wound of head and face	0.1684038856980784
+753	Open wound of nose and sinus	0.0086101234793002
+754	Open wounds of extremities	0.3385804438771893
+755	Open wound of finger(s)	0.0197526362172182
+756	Open wound of foot except toe(s) alone	0.0686277489085402
+757	Traumatic amputation	0.1392814092239746
+758	Broken tooth	0.0422909006189159
+759	Complication of amputation stump	0.0427973784706394
+760	Injuries to the nervous system	0.3117371177358414
+761	Blister	0.0060777342206825
+762	Insect bite	0.0159540523292916
+763	Superficial injury without mention of infection	1.0352407289229242
+764	Contusion	0.7673139453611694
+765	Allergic reaction to food	0.0830623676826612
+766	Dermatitis due to solar radiation	0.1678974078463548
+767	Acute dermatitis due to solar radiation	0.0091166013310237
+768	Chronic dermatitis due to solar radiation	0.1167431448222769
+769	Atopic/contact dermatitis due to other or unspecified	1.3358353339208475
+770	Adverse reaction to serum or vaccine	0.1253532683015771
+771	Anaphylactic shock NOS	0.2248761661652535
+772	Urticaria	0.1757478145480698
+773	Diaper or napkin rash	0.0073439288499913
+774	Spinal cord injury without evidence of spinal bone injury	0.0053180174430972
+775	Certain early complications of trauma or procedure	0.141054081705007
+776	Postoperative shock	0.0101295570344708
+777	Traumatic and surgical subcutaneous emphysema	0.0615370589844106
+778	Toxic effect of (non-ethyl) alcohol and petroleum and other solvents	0.0546996079861427
+779	Toxic effect of other metals	0.0151943355517063
+780	Toxic effect of carbon monoxide	0.0162072912551534
+781	Toxic effect of other gases fumes or vapors	0.006584212072406
+782	Toxic effect of noxious substances eaten as food	0.0435570952482247
+783	Toxic effect of other substances chiefly nonmedicinal as to source	0.0075971677758531
+784	Effects radiation NOS	2.5247920908418675
+785	Sepsis and SIRS	2.7405516556760974
+786	Sepsis	2.7402984167502358
