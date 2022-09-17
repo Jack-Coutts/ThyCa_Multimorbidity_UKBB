@@ -1,6 +1,8 @@
 # Assessing Thyroid Cancer multimorbidity using the UK Biobank database
 
-***Abstract:*** *Thyroid cancer is ...... Significant role of multimorbidity in thyroid cancer mortality but little is\
+# Abstract
+
+* Thyroid cancer is ...... Significant role of multimorbidity in thyroid cancer mortality but little is
 known. Unsupervised machine learning techniques *
 
 
