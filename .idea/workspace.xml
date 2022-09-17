@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Updated visualisations.">
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
-    </list>
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Updated read me" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -99,21 +96,7 @@
       <workItem from="1663299450768" duration="36000" />
       <workItem from="1663299840162" duration="27000" />
       <workItem from="1663300136886" duration="1089000" />
-      <workItem from="1663408053065" duration="616000" />
-    </task>
-    <task id="LOCAL-00010" summary="Written checklist and phecodes txt file added.">
-      <created>1656498988006</created>
-      <option name="number" value="00010" />
-      <option name="presentableId" value="LOCAL-00010" />
-      <option name="project" value="LOCAL" />
-      <updated>1656498988006</updated>
-    </task>
-    <task id="LOCAL-00011" summary="Added line break to readme.">
-      <created>1656499125764</created>
-      <option name="number" value="00011" />
-      <option name="presentableId" value="LOCAL-00011" />
-      <option name="project" value="LOCAL" />
-      <updated>1656499125764</updated>
+      <workItem from="1663408053065" duration="996000" />
     </task>
     <task id="LOCAL-00012" summary="Added line break to readme.">
       <created>1656499209596</created>
@@ -444,7 +427,21 @@
       <option name="project" value="LOCAL" />
       <updated>1663300624419</updated>
     </task>
-    <option name="localTasksCounter" value="59" />
+    <task id="LOCAL-00059" summary="Updated read me">
+      <created>1663408681110</created>
+      <option name="number" value="00059" />
+      <option name="presentableId" value="LOCAL-00059" />
+      <option name="project" value="LOCAL" />
+      <updated>1663408681111</updated>
+    </task>
+    <task id="LOCAL-00060" summary="Updated read me">
+      <created>1663408850346</created>
+      <option name="number" value="00060" />
+      <option name="presentableId" value="LOCAL-00060" />
+      <option name="project" value="LOCAL" />
+      <updated>1663408850346</updated>
+    </task>
+    <option name="localTasksCounter" value="61" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -466,7 +463,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Added dendrogram output files from apocrita." />
     <MESSAGE value="Change figure size." />
     <MESSAGE value="Edited README." />
     <MESSAGE value="Changed dendrogram size." />
@@ -491,6 +487,7 @@
     <MESSAGE value="Change confidence to Lift." />
     <MESSAGE value="Changed lift threshold." />
     <MESSAGE value="Updated visualisations." />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated visualisations." />
+    <MESSAGE value="Updated read me" />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated read me" />
   </component>
 </project>
