@@ -1,12 +1,9 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Changed lift threshold.">
-      <change afterPath="$PROJECT_DIR$/data_exploration/disease_prevalence.tsv" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/data_exploration/explore_disease_data.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualisations/DrugGraphs.ipynb" afterDir="false" />
-      <change afterPath="$PROJECT_DIR$/visualisations/ThyCa_FA.ipynb" afterDir="false" />
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Updated visualisations.">
       <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/README.md" beforeDir="false" afterPath="$PROJECT_DIR$/README.md" afterDir="false" />
     </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -101,14 +98,8 @@
       <workItem from="1663194040249" duration="799000" />
       <workItem from="1663299450768" duration="36000" />
       <workItem from="1663299840162" duration="27000" />
-      <workItem from="1663300136886" duration="338000" />
-    </task>
-    <task id="LOCAL-00009" summary="Column value frequency function.">
-      <created>1656497385547</created>
-      <option name="number" value="00009" />
-      <option name="presentableId" value="LOCAL-00009" />
-      <option name="project" value="LOCAL" />
-      <updated>1656497385547</updated>
+      <workItem from="1663300136886" duration="1089000" />
+      <workItem from="1663408053065" duration="616000" />
     </task>
     <task id="LOCAL-00010" summary="Written checklist and phecodes txt file added.">
       <created>1656498988006</created>
@@ -446,7 +437,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663299858632</updated>
     </task>
-    <option name="localTasksCounter" value="58" />
+    <task id="LOCAL-00058" summary="Updated visualisations.">
+      <created>1663300624419</created>
+      <option name="number" value="00058" />
+      <option name="presentableId" value="LOCAL-00058" />
+      <option name="project" value="LOCAL" />
+      <updated>1663300624419</updated>
+    </task>
+    <option name="localTasksCounter" value="59" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -468,7 +466,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="clustering directory added." />
     <MESSAGE value="Added dendrogram output files from apocrita." />
     <MESSAGE value="Change figure size." />
     <MESSAGE value="Edited README." />
@@ -493,6 +490,7 @@
     <MESSAGE value="Cluster dendrogram png added." />
     <MESSAGE value="Change confidence to Lift." />
     <MESSAGE value="Changed lift threshold." />
-    <option name="LAST_COMMIT_MESSAGE" value="Changed lift threshold." />
+    <MESSAGE value="Updated visualisations." />
+    <option name="LAST_COMMIT_MESSAGE" value="Updated visualisations." />
   </component>
 </project>

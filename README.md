@@ -1,4 +1,12 @@
-## Thyroid cancer comorbidity identification in the UK Biobank dataset.
+# Assessing Thyroid Cancer multimorbidity using the UK Biobank database
+
+***Abstract:*** *Thyroid cancer is ...... Significant role of multimorbidity in thyroid cancer mortality but little is\
+known. Unsupervised machine learning techniques *
+
+
+
+
+
 
 Analysis conducted using the QMUL HPC known as Apocrita.
 
