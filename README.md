@@ -15,6 +15,7 @@ This research was conducted using data from UK Biobank, a major biomedical datab
 Specifically, this work used binary disease and medication data for 394,884 and 294,699 individuals respectively. The relationship between 786 diseases and thyroid cancer was examined as well as the relatioship between three drugs prescribed for thyroid cancer and the 786 diseases.
 
 *Reference:*
+
 Sudlow, C. et al. (2015) ‘UK Biobank: An Open Access Resource for Identifying the Causes of a Wide Range of Complex Diseases of Middle and Old Age’, PLoS Medicine, 12(3), p. e1001779. Available at: https://doi.org/10.1371/journal.pmed.1001779.
 
 
@@ -32,6 +33,6 @@ Zemedikun, D.T. et al. (2018) ‘Patterns of Multimorbidity in Middle-Aged and O
 
 
 
-## Key References:
+## Background References:
 
 
