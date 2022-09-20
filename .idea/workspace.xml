@@ -1,10 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Updated read me">
-      <change afterPath="$PROJECT_DIR$/ThyCa_multimorbidity.png" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-    </list>
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Added figures" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -42,6 +39,7 @@
 }</component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
+      <recent name="$PROJECT_DIR$" />
       <recent name="$PROJECT_DIR$/data_exploration" />
       <recent name="$PROJECT_DIR$/visualisations" />
       <recent name="$PROJECT_DIR$/cluster_analysis/apocrita_out_files" />
@@ -100,14 +98,7 @@
       <workItem from="1663299840162" duration="27000" />
       <workItem from="1663300136886" duration="1089000" />
       <workItem from="1663408053065" duration="1315000" />
-      <workItem from="1663664214023" duration="321000" />
-    </task>
-    <task id="LOCAL-00013" summary="Added line break to readme.">
-      <created>1656499275718</created>
-      <option name="number" value="00013" />
-      <option name="presentableId" value="LOCAL-00013" />
-      <option name="project" value="LOCAL" />
-      <updated>1656499275718</updated>
+      <workItem from="1663664214023" duration="1027000" />
     </task>
     <task id="LOCAL-00014" summary="Added line break to readme.">
       <created>1656499330989</created>
@@ -445,7 +436,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663409339033</updated>
     </task>
-    <option name="localTasksCounter" value="62" />
+    <task id="LOCAL-00062" summary="Added figures">
+      <created>1663664633707</created>
+      <option name="number" value="00062" />
+      <option name="presentableId" value="LOCAL-00062" />
+      <option name="project" value="LOCAL" />
+      <updated>1663664633707</updated>
+    </task>
+    <option name="localTasksCounter" value="63" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
@@ -467,7 +465,6 @@
   </component>
   <component name="VcsManagerConfiguration">
     <option name="ADD_EXTERNAL_FILES_SILENTLY" value="true" />
-    <MESSAGE value="Change figure size." />
     <MESSAGE value="Edited README." />
     <MESSAGE value="Changed dendrogram size." />
     <MESSAGE value="Move dendrograms." />
@@ -492,6 +489,7 @@
     <MESSAGE value="Changed lift threshold." />
     <MESSAGE value="Updated visualisations." />
     <MESSAGE value="Updated read me" />
-    <option name="LAST_COMMIT_MESSAGE" value="Updated read me" />
+    <MESSAGE value="Added figures" />
+    <option name="LAST_COMMIT_MESSAGE" value="Added figures" />
   </component>
 </project>

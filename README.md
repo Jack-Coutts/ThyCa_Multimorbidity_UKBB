@@ -1,7 +1,7 @@
 # Assessing Thyroid Cancer multimorbidity using the UK Biobank database
 
 <p align="center">
-<img src="https://github.com/Jack-Coutts/ThyCa_Multimorbidity_UKBB/blob/main/ThyCa_multimorbidity.png" width=75% height=75% class="center">
+<img src="https://github.com/Jack-Coutts/ThyCa_Multimorbidity_UKBB/visualisations/blob/main/ThyCa_multimorbidity.png" width=75% height=75% class="center">
 </p>
 
 ***Abstract:*** *Thyroid cancer is the most common endocrine malignancy worldwide and has reached epidemic levels in recent years. Diagnostic techniques for thyroid cancer have significant limitations and the disease is often diagnosed alongside other conditions. Multimorbidity refers to the coexistence of at least two chronic conditions in a single individual and the term comorbidity, for the purpose of this work, refers to a disease that co-occurs with the reference disease. Multimorbidity is becoming an increasingly important priority for clinicians, researchers, and health authorities due to the substantial impact it has on individuals and health authorities globally. Multimorbidity has a disproportionally large effect on patient mortality for cancers with less severe diagnoses and this is highly relevant for thyroid cancer where the 10-year survival for 95% of individuals is 90%. Some research has suggested that approximately 20% of deaths in thyroid cancer patients are due to multimorbidity rather than the primary disease. Despite this, little is known about thyroid cancer multimorbidity.*
@@ -38,13 +38,13 @@ Zemedikun, D.T. et al. (2018) ‘Patterns of Multimorbidity in Middle-Aged and O
 The results for thyroid cancer multimorbidity can bee seen in the figure below:
 
 <p align="center">
-<img src="https://github.com/Jack-Coutts/ThyCa_Multimorbidity_UKBB/blob/main/ThyCa_multimorbidity.png" width=75% height=75% class="center">
+<img src="https://github.com/Jack-Coutts/ThyCa_Multimorbidity_UKBB/visualisations/blob/main/ThyCa_multimorbidity.png" width=75% height=75% class="center">
 </p>
 
 The results for each of the three medications and the three medications combined can be seen below:
 
 <p align="center">
-<img src="https://github.com/Jack-Coutts/ThyCa_Multimorbidity_UKBB/blob/main/ThyCa_drugs.png" width=75% height=75% class="center">
+<img src="https://github.com/Jack-Coutts/ThyCa_Multimorbidity_UKBB/visualisations/blob/main/ThyCa_drugs.png" width=75% height=75% class="center">
 </p>
 
 ## Acknowledgements
