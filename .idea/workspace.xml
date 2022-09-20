@@ -1,7 +1,10 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Updated read me" />
+    <list default="true" id="1bb3b8ee-658a-4cf8-b5ca-f5a79c2773b1" name="Changes" comment="Updated read me">
+      <change afterPath="$PROJECT_DIR$/ThyCa_multimorbidity.png" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
+    </list>
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
@@ -96,14 +99,8 @@
       <workItem from="1663299450768" duration="36000" />
       <workItem from="1663299840162" duration="27000" />
       <workItem from="1663300136886" duration="1089000" />
-      <workItem from="1663408053065" duration="996000" />
-    </task>
-    <task id="LOCAL-00012" summary="Added line break to readme.">
-      <created>1656499209596</created>
-      <option name="number" value="00012" />
-      <option name="presentableId" value="LOCAL-00012" />
-      <option name="project" value="LOCAL" />
-      <updated>1656499209596</updated>
+      <workItem from="1663408053065" duration="1315000" />
+      <workItem from="1663664214023" duration="321000" />
     </task>
     <task id="LOCAL-00013" summary="Added line break to readme.">
       <created>1656499275718</created>
@@ -441,7 +438,14 @@
       <option name="project" value="LOCAL" />
       <updated>1663408850346</updated>
     </task>
-    <option name="localTasksCounter" value="61" />
+    <task id="LOCAL-00061" summary="Updated read me">
+      <created>1663409339033</created>
+      <option name="number" value="00061" />
+      <option name="presentableId" value="LOCAL-00061" />
+      <option name="project" value="LOCAL" />
+      <updated>1663409339033</updated>
+    </task>
+    <option name="localTasksCounter" value="62" />
     <servers />
   </component>
   <component name="TypeScriptGeneratedFilesManager">
