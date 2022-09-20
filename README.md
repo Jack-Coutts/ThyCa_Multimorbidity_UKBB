@@ -4,6 +4,13 @@
 known. Unsupervised machine learning techniques.*
 
 
+<p align="center">
+<img src="https://github.com/Jack-Coutts/ThyCa_Multimorbidity_UKBB/ThyCa_multimorbidity.png" width=75% height=75% class="center">
+</p>
+
+
+
+
 
 ### Project Requirements:
 
