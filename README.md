@@ -3,10 +3,6 @@
 ***Abstract:*** *Thyroid cancer is ...... Significant role of multimorbidity in thyroid cancer mortality but little is
 known. Unsupervised machine learning techniques.*
 
-![Multimorbidity for Thyroid Cancer](https://github.com/Jack-Coutts/ThyCa_Multimorbidity_UKBB/blob/main/ThyCa_multimorbidity.png "A bar chart showing diseases found to be comorbidities of Thyroid Cancer").
-
-
-
 <p align="center">
 <img src="https://github.com/Jack-Coutts/ThyCa_Multimorbidity_UKBB/blob/main/ThyCa_multimorbidity.png" width=75% height=75% class="center">
 </p>
