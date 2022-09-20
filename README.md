@@ -10,7 +10,7 @@
 
 ## Data Source 
 
-This research was conducted using data from UK Biobank, a major biomedical database: [UK Biobank]([https://link-url-here.org](https://www.ukbiobank.ac.uk/)).
+This research was conducted using data from UK Biobank, a major biomedical database: [UK Biobank](https://www.ukbiobank.ac.uk/).
 
 Specifically, this work used binary disease and medication data for 394,884 and 294,699 individuals respectively. The relationship between 786 diseases and thyroid cancer was examined as well as the relatioship between three drugs prescribed for thyroid cancer and the 786 diseases.
 
