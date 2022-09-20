@@ -36,7 +36,7 @@ Zemedikun, D.T. et al. (2018) ‘Patterns of Multimorbidity in Middle-Aged and O
 The results for thyroid cancer multimorbidity can bee seen in the figure below:
 
 <p align="center">
-<img src="https://github.com/Jack-Coutts/ThyCa_Multimorbidity_UKBB/blob/main/ThyCa_multimorbidity.png" width=50% height=50% class="center">
+<img src="https://github.com/Jack-Coutts/ThyCa_Multimorbidity_UKBB/blob/main/ThyCa_multimorbidity.png" width=75% height=75% class="center">
 </p>
 
 The results for each of the three medications and the three medications combined can be seen below:
