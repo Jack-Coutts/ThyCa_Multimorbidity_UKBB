@@ -22,7 +22,11 @@ Sudlow, C. et al. (2015) ‘UK Biobank: An Open Access Resource for Identifying 
 
 ## Methodology
 
+The methodology used for ths work was adapted from Zemedikun et al. in which agglomerative heirarchical clustering was used to identify a cluster of disease related to thyroid cancer that was small enough for association rule mining to run. The clustering technique used the Jaccard distance metric and the single linkage method. Following this, association rule mining was applied to identify association rules between diseases. The association rules were measured by a value known as the lift which is a number  rpresenting how often two diseases are seen to co-occur compared to how often they would be expected to co-occur by chance. The higher the lift, the strongter the association between two diseases.
 
+The protocal was also applied for three medications prescribed to individuals follwing a thyroidectomy, a common thyroid cancer treatement, to determine whether the disease results were due to thyroid cancer or drugs prescibed for it. 
+
+*Reference:*
 
 Zemedikun, D.T. et al. (2018) ‘Patterns of Multimorbidity in Middle-Aged and Older Adults: An Analysis of the UK Biobank Data’, Mayo Clinic Proceedings, 93(7), pp. 857–866. Available at: https://doi.org/10.1016/j.mayocp.2018.02.012.
 
