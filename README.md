@@ -26,6 +26,8 @@ The methodology used for ths work was adapted from Zemedikun et al. in which agg
 
 The protocal was also applied for three medications prescribed to individuals follwing a thyroidectomy, a common thyroid cancer treatement, to determine whether the disease results were due to thyroid cancer or drugs prescibed for it. 
 
+This research utilised Queen Mary's Apocrita HPC facility, supported by QMUL Research-IT. http://doi.org/10.5281/zenodo.438045
+
 *Reference:*
 
 Zemedikun, D.T. et al. (2018) ‘Patterns of Multimorbidity in Middle-Aged and Older Adults: An Analysis of the UK Biobank Data’, Mayo Clinic Proceedings, 93(7), pp. 857–866. Available at: https://doi.org/10.1016/j.mayocp.2018.02.012.
