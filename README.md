@@ -13,7 +13,7 @@
 
 This research was conducted using data from UK Biobank, a major biomedical database: [www.ukbiobank.ac.uk](https://www.ukbiobank.ac.uk/).
 
-Specifically, this work used binary disease and medication data for 394,884 and 294,699 individuals respectively. The relationship between 786 diseases and thyroid cancer was examined as well as the relatioship between three drugs prescribed for thyroid cancer and the 786 diseases.
+Specifically, this work used binary disease and medication data for 394,884 and 294,699 individuals respectively. The relationship between 786 diseases and thyroid cancer was examined as well as the relationship between three drugs prescribed for thyroid cancer and the 786 diseases.
 
 *Reference:*
 
@@ -22,9 +22,9 @@ Sudlow, C. et al. (2015) ‘UK Biobank: An Open Access Resource for Identifying 
 
 ## Methodology
 
-The methodology used for ths work was adapted from Zemedikun et al. in which agglomerative heirarchical clustering was used to identify a cluster of disease related to thyroid cancer that was small enough for association rule mining to run. The clustering technique used the Jaccard distance metric and the single linkage method. Following this, association rule mining was applied to identify association rules between diseases. The association rules were measured by a value known as the lift which is a number  rpresenting how often two diseases are seen to co-occur compared to how often they would be expected to co-occur by chance. The higher the lift, the strongter the association between two diseases.
+The methodology used for this work was adapted from Zemedikun et al. in which agglomerative hierarchical clustering was used to identify a cluster of disease related to thyroid cancer that was small enough for association rule mining to run. The clustering technique used the Jaccard distance metric and the single linkage method. Following this, association rule mining was applied to identify association rules between diseases. The association rules were measured by a value known as the lift which is a number representing how often two diseases are seen to co-occur compared to how often they would be expected to co-occur by chance. The higher the lift, the stronger the association between two diseases.
 
-The protocal was also applied for three medications prescribed to individuals follwing a thyroidectomy, a common thyroid cancer treatement, to determine whether the disease results were due to thyroid cancer or drugs prescibed for it. 
+The protocol was also applied for three medications prescribed to individuals following a thyroidectomy, a common thyroid cancer treatment, to determine whether the disease results were due to thyroid cancer or drugs prescribed for it.
 
 This research utilised Queen Mary's Apocrita HPC facility, supported by QMUL Research-IT. http://doi.org/10.5281/zenodo.438045
 
@@ -47,6 +47,6 @@ The results for each of the three medications and the three medications combined
 <img src="https://github.com/Jack-Coutts/ThyCa_Multimorbidity_UKBB/blob/main/ThyCa_drugs.png" width=75% height=75% class="center">
 </p>
 
-## Aknowledgements
+## Acknowledgements
 
 I would like to thank Dr Eirini Marouli for her help and suppor throughout the duration of this project.
