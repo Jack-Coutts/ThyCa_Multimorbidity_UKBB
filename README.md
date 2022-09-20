@@ -47,8 +47,6 @@ The results for each of the three medications and the three medications combined
 <img src="https://github.com/Jack-Coutts/ThyCa_Multimorbidity_UKBB/blob/main/ThyCa_drugs.png" width=75% height=75% class="center">
 </p>
 
+## Aknowledgements
 
-
-## Background References:
-
-
+I would like to thank Dr Eirini Marouli for her help and suppor throughout the duration of this project.
