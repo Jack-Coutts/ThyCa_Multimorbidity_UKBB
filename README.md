@@ -42,7 +42,7 @@ The results for thyroid cancer multimorbidity can bee seen in the figure below:
 The results for each of the three medications and the three medications combined can be seen below:
 
 <p align="center">
-<img src="https://github.com/Jack-Coutts/ThyCa_Multimorbidity_UKBB/blob/main/ThyCa_drugs.png" width=50% height=50% class="center">
+<img src="https://github.com/Jack-Coutts/ThyCa_Multimorbidity_UKBB/blob/main/ThyCa_drugs.png" width=75% height=75% class="center">
 </p>
 
 
