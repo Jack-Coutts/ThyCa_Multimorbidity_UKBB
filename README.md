@@ -8,6 +8,7 @@
 
 *The growing focus on data collection and existence of large biomedical databases have allowed researched to start using machine learning techniques to address problems like multimorbidity. This work looked to use unsupervised machine learning techniques to identify comorbidities of thyroid cancer using data from the UK Biobank database. Agglomerative hierarchical clustering and association rule mining were used to identify association rules between other disease and thyroid cancer as well quantify the strength of the relationships. Several known disease relationships and some previously undescribed comorbidities were identified here, with a key finding being the identification of eye cancer as a comorbidity of thyroid cancer.*
 
+
 ## Data Source 
 
 This research was conducted using data from UK Biobank, a major biomedical database: [www.ukbiobank.ac.uk](https://www.ukbiobank.ac.uk/).
@@ -17,7 +18,6 @@ Specifically, this work used binary disease and medication data for 394,884 and 
 *Reference:*
 
 Sudlow, C. et al. (2015) ‘UK Biobank: An Open Access Resource for Identifying the Causes of a Wide Range of Complex Diseases of Middle and Old Age’, PLoS Medicine, 12(3), p. e1001779. Available at: https://doi.org/10.1371/journal.pmed.1001779.
-
 
 
 ## Methodology
@@ -31,9 +31,19 @@ The protocal was also applied for three medications prescribed to individuals fo
 Zemedikun, D.T. et al. (2018) ‘Patterns of Multimorbidity in Middle-Aged and Older Adults: An Analysis of the UK Biobank Data’, Mayo Clinic Proceedings, 93(7), pp. 857–866. Available at: https://doi.org/10.1016/j.mayocp.2018.02.012.
 
 
+## Results
 
+The results for thyroid cancer multimorbidity can bee seen in the figure below:
 
+<p align="center">
+<img src="https://github.com/Jack-Coutts/ThyCa_Multimorbidity_UKBB/blob/main/ThyCa_multimorbidity.png" width=50% height=50% class="center">
+</p>
 
+The results for each of the three medications and the three medications combined can be seen below:
+
+<p align="center">
+<img src="https://github.com/Jack-Coutts/ThyCa_Multimorbidity_UKBB/blob/main/ThyCa_drugs.png" width=50% height=50% class="center">
+</p>
 
 
 
